@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan">
 </a>
 
-The `public contributions` by users in Japan on `2026/8/19 12:22 AM UTC`. This list contains users from `Japan` and cities `Tokyo`.
+The `public contributions` by users in Japan on `2026/8/20 12:22 AM UTC`. This list contains users from `Japan` and cities `Tokyo`.
 
 There are `1 countries` and `1 cities` can be found [here](https://github.com/Coordinate-Cat/top-github-users).
 
@@ -128,7 +128,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Map Iv </td>
 		<td><a href="https://twitter.com/rsasaki0109">rsasaki0109</a></td>
 		<td>Japan</td>
-		<td>27353</td>
+		<td>27383</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Sakura Internet </td>
 		<td><a href="https://twitter.com/tokuhirom">tokuhirom</a></td>
 		<td>Tokyo, Japan</td>
-		<td>24172</td>
+		<td>24381</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mizchi">mizchi</a></td>
 		<td>Tokyo/Japan</td>
-		<td>20943</td>
+		<td>20982</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Ideo;plus </td>
 		<td><a href="https://twitter.com/j5ik2o">j5ik2o</a></td>
 		<td>Arakawa-ku, Tokyo, Japan</td>
-		<td>17869</td>
+		<td>17950</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Geolonia </td>
 		<td><a href="https://twitter.com/yuiseki_">yuiseki_</a></td>
 		<td>Taito, Tokyo, Japan</td>
-		<td>17707</td>
+		<td>17724</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@route23 </td>
 		<td><a href="https://twitter.com/ito_okash1">ito_okash1</a></td>
 		<td>Tokyo/Japan</td>
-		<td>15384</td>
+		<td>15460</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@mercari </td>
 		<td><a href="https://twitter.com/fumiya_kume">fumiya_kume</a></td>
 		<td>Japan</td>
-		<td>15274</td>
+		<td>15329</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -219,10 +219,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@vuejs Core Team, @vuejs-jp<br/>Core<br/>Staff,<br/>@matesengineer<br/>Chief,<br/></td>
 		<td><a href="https://twitter.com/ubugeeei">ubugeeei</a></td>
 		<td>Tokyo / Japan</td>
-		<td>14526</td>
+		<td>14554</td>
 	</tr>
 	<tr>
 		<td>10</td>
+		<td>
+			<a href="https://github.com/unhappychoice">
+				<img src="https://avatars.githubusercontent.com/u/5608948?s=72&u=6ca2fca8320cb6be5b802f6c5a6359933754ab2e&v=4" width="24" alt="Avatar of unhappychoice"> unhappychoice
+			</a><br/>
+			Yuji Ueki
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/unhappychoice_e">unhappychoice_e</a></td>
+		<td>Tokyo, Japan</td>
+		<td>13236</td>
+	</tr>
+	<tr>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/mizzy">
 				<img src="https://avatars.githubusercontent.com/u/3620?s=72&u=2ea1559c315494106739adcc2f685055777a48dc&v=4" width="24" alt="Avatar of mizzy"> mizzy
@@ -235,19 +248,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>13217</td>
 	</tr>
 	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/unhappychoice">
-				<img src="https://avatars.githubusercontent.com/u/5608948?s=72&u=6ca2fca8320cb6be5b802f6c5a6359933754ab2e&v=4" width="24" alt="Avatar of unhappychoice"> unhappychoice
-			</a><br/>
-			Yuji Ueki
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/unhappychoice_e">unhappychoice_e</a></td>
-		<td>Tokyo, Japan</td>
-		<td>13204</td>
-	</tr>
-	<tr>
 		<td>12</td>
 		<td>
 			<a href="https://github.com/kurone-kito">
@@ -258,7 +258,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kurone_kito">kurone_kito</a></td>
 		<td>Tokyo, Japan</td>
-		<td>10725</td>
+		<td>10882</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/xiaomoinfo">xiaomoinfo</a></td>
 		<td>Tokyo</td>
-		<td>10680</td>
+		<td>10769</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,7 +284,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>9794</td>
+		<td>9875</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Light Transport Entertainment, Inc.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>9762</td>
+		<td>9767</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -310,23 +310,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Mercari </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>9689</td>
+		<td>9730</td>
 	</tr>
 	<tr>
 		<td>17</td>
-		<td>
-			<a href="https://github.com/xuwei-k">
-				<img src="https://avatars.githubusercontent.com/u/389787?s=72&u=22e5eca939aaa26cb191c9ec03b328945f97c8ac&v=4" width="24" alt="Avatar of xuwei-k"> xuwei-k
-			</a><br/>
-			kenji yoshida
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/xuwei_k">xuwei_k</a></td>
-		<td>Tokyo</td>
-		<td>9660</td>
-	</tr>
-	<tr>
-		<td>18</td>
 		<td>
 			<a href="https://github.com/zonuexe">
 				<img src="https://avatars.githubusercontent.com/u/822086?s=72&u=fd85204aa0605b17a73757ec3c1f644af436f496&v=4" width="24" alt="Avatar of zonuexe"> zonuexe
@@ -336,7 +323,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@pixiv Inc. And @emacs-php<br/></td>
 		<td><a href="https://twitter.com/tadsan">tadsan</a></td>
 		<td>Shibuya, Tokyo, Japan</td>
-		<td>9649</td>
+		<td>9672</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/xuwei-k">
+				<img src="https://avatars.githubusercontent.com/u/389787?s=72&u=22e5eca939aaa26cb191c9ec03b328945f97c8ac&v=4" width="24" alt="Avatar of xuwei-k"> xuwei-k
+			</a><br/>
+			kenji yoshida
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/xuwei_k">xuwei_k</a></td>
+		<td>Tokyo</td>
+		<td>9663</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -362,7 +362,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yanorei32">yanorei32</a></td>
 		<td>Saitama, Japan</td>
-		<td>9363</td>
+		<td>9413</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -375,7 +375,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@augmxnt </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>9089</td>
+		<td>9090</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,7 +388,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/koriym">koriym</a></td>
 		<td>Tokyo, Japan</td>
-		<td>8892</td>
+		<td>8945</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -401,23 +401,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tekezo">tekezo</a></td>
 		<td>Japan</td>
-		<td>8736</td>
+		<td>8753</td>
 	</tr>
 	<tr>
 		<td>24</td>
-		<td>
-			<a href="https://github.com/taiki-e">
-				<img src="https://avatars.githubusercontent.com/u/43724913?s=72&v=4" width="24" alt="Avatar of taiki-e"> taiki-e
-			</a><br/>
-			Taiki Endo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_taiki_e">_taiki_e</a></td>
-		<td>Japan</td>
-		<td>8090</td>
-	</tr>
-	<tr>
-		<td>25</td>
 		<td>
 			<a href="https://github.com/hsbt">
 				<img src="https://avatars.githubusercontent.com/u/12301?s=72&u=ff463d5b4856759aeb902725ad89b4392442077d&v=4" width="24" alt="Avatar of hsbt"> hsbt
@@ -427,7 +414,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@ruby @rubygems @rbenv @88labs<br/>@andpad-dev<br/></td>
 		<td><a href="https://twitter.com/hsbt">hsbt</a></td>
 		<td>Tokyo, Japan</td>
-		<td>8046</td>
+		<td>8116</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/taiki-e">
+				<img src="https://avatars.githubusercontent.com/u/43724913?s=72&v=4" width="24" alt="Avatar of taiki-e"> taiki-e
+			</a><br/>
+			Taiki Endo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_taiki_e">_taiki_e</a></td>
+		<td>Japan</td>
+		<td>8102</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -440,7 +440,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>8032</td>
+		<td>8043</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -453,7 +453,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>4d </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>7778</td>
+		<td>7881</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -466,7 +466,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@laststance </td>
 		<td><a href="https://twitter.com/malloc007">malloc007</a></td>
 		<td>tokyo</td>
-		<td>7641</td>
+		<td>7668</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@pixiv  </td>
 		<td><a href="https://twitter.com/sue445">sue445</a></td>
 		<td>Japan</td>
-		<td>7625</td>
+		<td>7626</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -492,7 +492,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Ruby Association,nacl </td>
 		<td>No Twitter Username</td>
 		<td>Matsue, Japan</td>
-		<td>7431</td>
+		<td>7494</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -518,7 +518,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Stamp Inc </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo in Japan</td>
-		<td>7276</td>
+		<td>7304</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -531,7 +531,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@kinocollc  </td>
 		<td><a href="https://twitter.com/guitarrapc_tech">guitarrapc_tech</a></td>
 		<td>Tokyo, Japan</td>
-		<td>7140</td>
+		<td>7150</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -544,7 +544,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@tailor-inc / 101000lab </td>
 		<td><a href="https://twitter.com/k1LoW">k1LoW</a></td>
 		<td>Fukuoka, JAPAN</td>
-		<td>7103</td>
+		<td>7106</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -557,7 +557,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Stores, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>7056</td>
+		<td>7067</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -570,7 +570,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/YumNumm">YumNumm</a></td>
 		<td>Kanagawa, Japan</td>
-		<td>6935</td>
+		<td>6974</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -583,7 +583,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Void (0) </td>
 		<td><a href="https://twitter.com/sapphi_red">sapphi_red</a></td>
 		<td>Japan</td>
-		<td>6540</td>
+		<td>6564</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -596,7 +596,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mattn_jp">mattn_jp</a></td>
 		<td>Osaka, Japan</td>
-		<td>6279</td>
+		<td>6384</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -622,7 +622,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/azu_re">azu_re</a></td>
 		<td>Tokyo/Japan</td>
-		<td>5998</td>
+		<td>6003</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -635,7 +635,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@databricks </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>5967</td>
+		<td>5971</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -648,7 +648,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@surrealdb, @helmfile, @actions-runner-cont </td>
 		<td><a href="https://twitter.com/mumoshu">mumoshu</a></td>
 		<td>Kagawa, Japan</td>
-		<td>5843</td>
+		<td>5844</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -661,7 +661,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@akari-inc @numfocus  </td>
 		<td><a href="https://twitter.com/tkoyama010">tkoyama010</a></td>
 		<td>Japan</td>
-		<td>5788</td>
+		<td>5815</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -687,7 +687,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/wkentaro_">wkentaro_</a></td>
 		<td>Tokyo</td>
-		<td>5536</td>
+		<td>5553</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -700,7 +700,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@arkedge </td>
 		<td><a href="https://twitter.com/sksat_tty">sksat_tty</a></td>
 		<td>Japan</td>
-		<td>5456</td>
+		<td>5480</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -713,7 +713,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@speedshop  </td>
 		<td><a href="https://twitter.com/nateberkopec">nateberkopec</a></td>
 		<td>Tokyo, JP</td>
-		<td>5386</td>
+		<td>5389</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -726,7 +726,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>5291</td>
+		<td>5373</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -739,7 +739,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@starley-ai </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>5218</td>
+		<td>5272</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -752,7 +752,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@evex-dev  </td>
 		<td><a href="https://twitter.com/evex_dev">evex_dev</a></td>
 		<td>Japan Tokio</td>
-		<td>5166</td>
+		<td>5182</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -765,7 +765,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kmizu">kmizu</a></td>
 		<td>Osaka, Japan</td>
-		<td>5007</td>
+		<td>5033</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -778,7 +778,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Cyberagent, Inc. </td>
 		<td><a href="https://twitter.com/PINTO03091">PINTO03091</a></td>
 		<td>Nagoya, Japan</td>
-		<td>4990</td>
+		<td>5005</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -791,7 +791,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>4960</td>
+		<td>4961</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -804,7 +804,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Undefined </td>
 		<td><a href="https://twitter.com/sanxiaozhizi">sanxiaozhizi</a></td>
 		<td>[Tokyo, Shenzhen]</td>
-		<td>4945</td>
+		<td>4951</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -817,23 +817,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Pezy Computing K.k. </td>
 		<td><a href="https://twitter.com/dalance1982">dalance1982</a></td>
 		<td>Kanagawa, Japan</td>
-		<td>4869</td>
+		<td>4909</td>
 	</tr>
 	<tr>
 		<td>56</td>
-		<td>
-			<a href="https://github.com/hi-ogawa">
-				<img src="https://avatars.githubusercontent.com/u/4232207?s=72&u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4" width="24" alt="Avatar of hi-ogawa"> hi-ogawa
-			</a><br/>
-			Hiroshi Ogawa
-		</td>
-		<td>@voidzero-dev </td>
-		<td><a href="https://twitter.com/hiroshi_18181">hiroshi_18181</a></td>
-		<td>Japan</td>
-		<td>4806</td>
-	</tr>
-	<tr>
-		<td>57</td>
 		<td>
 			<a href="https://github.com/AkihiroSuda">
 				<img src="https://avatars.githubusercontent.com/u/9248427?s=72&v=4" width="24" alt="Avatar of AkihiroSuda"> AkihiroSuda
@@ -843,7 +830,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Ntt </td>
 		<td><a href="https://twitter.com/_AkihiroSuda_">_AkihiroSuda_</a></td>
 		<td>Tokyo, Japan</td>
-		<td>4804</td>
+		<td>4833</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/hi-ogawa">
+				<img src="https://avatars.githubusercontent.com/u/4232207?s=72&u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4" width="24" alt="Avatar of hi-ogawa"> hi-ogawa
+			</a><br/>
+			Hiroshi Ogawa
+		</td>
+		<td>@voidzero-dev </td>
+		<td><a href="https://twitter.com/hiroshi_18181">hiroshi_18181</a></td>
+		<td>Japan</td>
+		<td>4833</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -856,23 +856,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@colopl </td>
 		<td><a href="https://twitter.com/yamadashy">yamadashy</a></td>
 		<td>Tokyo/Japan</td>
-		<td>4766</td>
+		<td>4775</td>
 	</tr>
 	<tr>
 		<td>59</td>
-		<td>
-			<a href="https://github.com/kawasima">
-				<img src="https://avatars.githubusercontent.com/u/59009?s=72&v=4" width="24" alt="Avatar of kawasima"> kawasima
-			</a><br/>
-			Yoshitaka Kawashima
-		</td>
-		<td>Wolfchief, Inc. </td>
-		<td><a href="https://twitter.com/kawasima">kawasima</a></td>
-		<td>Tokyo, Japan</td>
-		<td>4734</td>
-	</tr>
-	<tr>
-		<td>60</td>
 		<td>
 			<a href="https://github.com/bannzai">
 				<img src="https://avatars.githubusercontent.com/u/10897361?s=72&u=3b3e9003f8edebbd8d68d1856eab20e38392112b&v=4" width="24" alt="Avatar of bannzai"> bannzai
@@ -882,7 +869,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Null </td>
 		<td><a href="https://twitter.com/_bannzai_">_bannzai_</a></td>
 		<td>Tokyo, Japan</td>
-		<td>4683</td>
+		<td>4767</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/kawasima">
+				<img src="https://avatars.githubusercontent.com/u/59009?s=72&v=4" width="24" alt="Avatar of kawasima"> kawasima
+			</a><br/>
+			Yoshitaka Kawashima
+		</td>
+		<td>Wolfchief, Inc. </td>
+		<td><a href="https://twitter.com/kawasima">kawasima</a></td>
+		<td>Tokyo, Japan</td>
+		<td>4764</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -895,10 +895,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Tatsu-zine Publishing Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>4644</td>
+		<td>4647</td>
 	</tr>
 	<tr>
 		<td>62</td>
+		<td>
+			<a href="https://github.com/zchee">
+				<img src="https://avatars.githubusercontent.com/u/6366270?s=72&u=b3b4c30edcd4ad8fe5da44faacbd1d70a8c836f5&v=4" width="24" alt="Avatar of zchee"> zchee
+			</a><br/>
+			Koichi Shiraishi
+		</td>
+		<td>@gaudiy </td>
+		<td><a href="https://twitter.com/_zchee_">_zchee_</a></td>
+		<td>Tokyo, Japan</td>
+		<td>4572</td>
+	</tr>
+	<tr>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/fujiwara">
 				<img src="https://avatars.githubusercontent.com/u/67804?s=72&u=9d2b54481d1e7061fe68bb3ddcfb67ecdcbf5f08&v=4" width="24" alt="Avatar of fujiwara"> fujiwara
@@ -911,19 +924,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>4440</td>
 	</tr>
 	<tr>
-		<td>63</td>
-		<td>
-			<a href="https://github.com/zchee">
-				<img src="https://avatars.githubusercontent.com/u/6366270?s=72&u=b3b4c30edcd4ad8fe5da44faacbd1d70a8c836f5&v=4" width="24" alt="Avatar of zchee"> zchee
-			</a><br/>
-			Koichi Shiraishi
-		</td>
-		<td>@gaudiy </td>
-		<td><a href="https://twitter.com/_zchee_">_zchee_</a></td>
-		<td>Tokyo, Japan</td>
-		<td>4401</td>
-	</tr>
-	<tr>
 		<td>64</td>
 		<td>
 			<a href="https://github.com/komagata">
@@ -934,7 +934,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Lokka, Inc </td>
 		<td><a href="https://twitter.com/komagata">komagata</a></td>
 		<td>Tokyo Japan</td>
-		<td>4229</td>
+		<td>4233</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -947,7 +947,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Preferred Networks, Inc. </td>
 		<td><a href="https://twitter.com/himako_h">himako_h</a></td>
 		<td>Tokyo, Japan</td>
-		<td>4172</td>
+		<td>4194</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -960,7 +960,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Vmware </td>
 		<td><a href="https://twitter.com/making">making</a></td>
 		<td>Tokyo</td>
-		<td>4113</td>
+		<td>4168</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -973,7 +973,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@clear-code </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>4100</td>
+		<td>4140</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -999,7 +999,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>N/a </td>
 		<td><a href="https://twitter.com/bee_sec_san">bee_sec_san</a></td>
 		<td>Tokyo</td>
-		<td>3986</td>
+		<td>3992</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1012,7 +1012,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@voicevox </td>
 		<td><a href="https://twitter.com/sevenc_nanashi">sevenc_nanashi</a></td>
 		<td>Tokyo, Japan</td>
-		<td>3897</td>
+		<td>3898</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1025,7 +1025,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@ppy  </td>
 		<td><a href="https://twitter.com/ppy">ppy</a></td>
 		<td>Japan</td>
-		<td>3765</td>
+		<td>3777</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1038,7 +1038,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, JP</td>
-		<td>3755</td>
+		<td>3761</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1051,7 +1051,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toride city, Japan</td>
-		<td>3700</td>
+		<td>3710</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1064,7 +1064,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Hakoniwa Lab, Llc </td>
 		<td><a href="https://twitter.com/kanetugu2020">kanetugu2020</a></td>
 		<td>Fukui, Japan</td>
-		<td>3667</td>
+		<td>3669</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1077,7 +1077,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/haruki_web3">haruki_web3</a></td>
 		<td>Japan</td>
-		<td>3642</td>
+		<td>3643</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1090,10 +1090,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@clear-code </td>
 		<td><a href="https://twitter.com/watson1978">watson1978</a></td>
 		<td>Japan</td>
-		<td>3574</td>
+		<td>3623</td>
 	</tr>
 	<tr>
 		<td>77</td>
+		<td>
+			<a href="https://github.com/take-cheeze">
+				<img src="https://avatars.githubusercontent.com/u/162074?s=72&u=61d55b886366f3971aa78d0930e0dba396895b9d&v=4" width="24" alt="Avatar of take-cheeze"> take-cheeze
+			</a><br/>
+			Takeshi Watanabe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nagano, Japan</td>
+		<td>3541</td>
+	</tr>
+	<tr>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/yasulab">
 				<img src="https://avatars.githubusercontent.com/u/155807?s=72&u=0a39836834c1975e765900bff39dcdaa96ad658b&v=4" width="24" alt="Avatar of yasulab"> yasulab
@@ -1103,10 +1116,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@yasslab Inc. </td>
 		<td><a href="https://twitter.com/yasulab">yasulab</a></td>
 		<td>CASE Shinjuku, Tokyo, Japan</td>
-		<td>3535</td>
+		<td>3537</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/SebastienGllmt">
 				<img src="https://avatars.githubusercontent.com/u/2608559?s=72&u=adc41e396e5127a0eeba9826cb90e4d390d928c8&v=4" width="24" alt="Avatar of SebastienGllmt"> SebastienGllmt
@@ -1116,10 +1129,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Dcspark </td>
 		<td><a href="https://twitter.com/SebastienGllmt">SebastienGllmt</a></td>
 		<td>Japan</td>
-		<td>3516</td>
+		<td>3518</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/yug1224">
 				<img src="https://avatars.githubusercontent.com/u/3946829?s=72&u=7d4256426fe4d7d1970456238bc8596a416fca65&v=4" width="24" alt="Avatar of yug1224"> yug1224
@@ -1129,20 +1142,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yug1224">yug1224</a></td>
 		<td>Japan</td>
-		<td>3475</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
-			<a href="https://github.com/shimbaco">
-				<img src="https://avatars.githubusercontent.com/u/56767?s=72&u=91cfc5e5d1583c9b2b07d56ca7898bbff926d123&v=4" width="24" alt="Avatar of shimbaco"> shimbaco
-			</a><br/>
-			Shimba, Koji
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>3450</td>
+		<td>3494</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1155,10 +1155,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/JackdeS11">JackdeS11</a></td>
 		<td>Japan</td>
-		<td>3438</td>
+		<td>3488</td>
 	</tr>
 	<tr>
 		<td>82</td>
+		<td>
+			<a href="https://github.com/shimbaco">
+				<img src="https://avatars.githubusercontent.com/u/56767?s=72&u=91cfc5e5d1583c9b2b07d56ca7898bbff926d123&v=4" width="24" alt="Avatar of shimbaco"> shimbaco
+			</a><br/>
+			Shimba, Koji
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>3473</td>
+	</tr>
+	<tr>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/terasakisatoshi">
 				<img src="https://avatars.githubusercontent.com/u/16760547?s=72&u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4" width="24" alt="Avatar of terasakisatoshi"> terasakisatoshi
@@ -1171,7 +1184,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3433</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/seratch">
 				<img src="https://avatars.githubusercontent.com/u/19658?s=72&u=f4b4e7ec8ee32f3043d4d57aca50514113ed2328&v=4" width="24" alt="Avatar of seratch"> seratch
@@ -1181,10 +1194,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Openai </td>
 		<td><a href="https://twitter.com/seratch">seratch</a></td>
 		<td>Tokyo, Japan</td>
-		<td>3401</td>
+		<td>3420</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/JohnTitor">
 				<img src="https://avatars.githubusercontent.com/u/25030997?s=72&u=db71533f10e17ce4e132dd0f80043e8e8160802f&v=4" width="24" alt="Avatar of JohnTitor"> JohnTitor
@@ -1194,10 +1207,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>3378</td>
+		<td>3393</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/lambdalisue">
 				<img src="https://avatars.githubusercontent.com/u/546312?s=72&v=4" width="24" alt="Avatar of lambdalisue"> lambdalisue
@@ -1207,10 +1220,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lambdalisue">lambdalisue</a></td>
 		<td>Tokyo, Japan</td>
-		<td>3347</td>
+		<td>3348</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/kazupon">
 				<img src="https://avatars.githubusercontent.com/u/72989?s=72&u=da19c1508357407cae0b7b11166b072c95c29786&v=4" width="24" alt="Avatar of kazupon"> kazupon
@@ -1223,19 +1236,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3321</td>
 	</tr>
 	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/take-cheeze">
-				<img src="https://avatars.githubusercontent.com/u/162074?s=72&u=61d55b886366f3971aa78d0930e0dba396895b9d&v=4" width="24" alt="Avatar of take-cheeze"> take-cheeze
-			</a><br/>
-			Takeshi Watanabe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nagano, Japan</td>
-		<td>3305</td>
-	</tr>
-	<tr>
 		<td>88</td>
 		<td>
 			<a href="https://github.com/koxudaxi">
@@ -1246,7 +1246,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>3292</td>
+		<td>3299</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1285,7 +1285,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>3229</td>
+		<td>3234</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1298,7 +1298,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Line Corp. </td>
 		<td><a href="https://twitter.com/onevcat">onevcat</a></td>
 		<td>Yokohama, Japan / China</td>
-		<td>3198</td>
+		<td>3199</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1311,7 +1311,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>3086</td>
+		<td>3102</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1324,10 +1324,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mpyw">mpyw</a></td>
 		<td>Osaka, Japan</td>
-		<td>2960</td>
+		<td>2963</td>
 	</tr>
 	<tr>
 		<td>95</td>
+		<td>
+			<a href="https://github.com/hajimehoshi">
+				<img src="https://avatars.githubusercontent.com/u/16950?s=72&u=d6b1e4d5ff3cc9496452c4a9003f2ff0b8ee46eb&v=4" width="24" alt="Avatar of hajimehoshi"> hajimehoshi
+			</a><br/>
+			Hajime Hoshi
+		</td>
+		<td>Odencat </td>
+		<td><a href="https://twitter.com/hajimehoshi">hajimehoshi</a></td>
+		<td>Tokyo, Japan</td>
+		<td>2930</td>
+	</tr>
+	<tr>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/sorairolake">
 				<img src="https://avatars.githubusercontent.com/u/48999343?s=72&u=09c033fd197c0071c112b3d0a1ca0431b1a411f5&v=4" width="24" alt="Avatar of sorairolake"> sorairolake
@@ -1338,19 +1351,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/sorairolake">sorairolake</a></td>
 		<td>Nagano, Japan</td>
 		<td>2930</td>
-	</tr>
-	<tr>
-		<td>96</td>
-		<td>
-			<a href="https://github.com/hajimehoshi">
-				<img src="https://avatars.githubusercontent.com/u/16950?s=72&u=d6b1e4d5ff3cc9496452c4a9003f2ff0b8ee46eb&v=4" width="24" alt="Avatar of hajimehoshi"> hajimehoshi
-			</a><br/>
-			Hajime Hoshi
-		</td>
-		<td>Odencat </td>
-		<td><a href="https://twitter.com/hajimehoshi">hajimehoshi</a></td>
-		<td>Tokyo, Japan</td>
-		<td>2929</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1376,7 +1376,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@coteditor </td>
 		<td><a href="https://twitter.com/1024jp">1024jp</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2905</td>
+		<td>2909</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1389,7 +1389,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/yuwtnbe">yuwtnbe</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2868</td>
+		<td>2890</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1402,7 +1402,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>2839</td>
+		<td>2875</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1415,7 +1415,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>2814</td>
+		<td>2817</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -1454,7 +1454,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Unity Technologies Japan </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>2742</td>
+		<td>2746</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1467,7 +1467,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Preferred Networks Inc. </td>
 		<td><a href="https://twitter.com/jannchie">jannchie</a></td>
 		<td>Japan, Tokyo ⇄ China, Shanghai</td>
-		<td>2729</td>
+		<td>2730</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1480,7 +1480,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/garrettkjohnson">garrettkjohnson</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2716</td>
+		<td>2719</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1493,7 +1493,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yutkat">yutkat</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2693</td>
+		<td>2698</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1506,7 +1506,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>2686</td>
+		<td>2698</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1519,7 +1519,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kitao">kitao</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2677</td>
+		<td>2686</td>
 	</tr>
 	<tr>
 		<td>110</td>
@@ -1532,10 +1532,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kakerigawa">kakerigawa</a></td>
 		<td>Yokohama/Japan</td>
-		<td>2651</td>
+		<td>2660</td>
 	</tr>
 	<tr>
 		<td>111</td>
+		<td>
+			<a href="https://github.com/whitphx">
+				<img src="https://avatars.githubusercontent.com/u/3135397?s=72&u=bb8ef21760a59bc6bbe529439f4f8e197d07e390&v=4" width="24" alt="Avatar of whitphx"> whitphx
+			</a><br/>
+			Yuichiro Tachibana (Tsuchiya)
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/whitphx">whitphx</a></td>
+		<td>Tokyo, Japan</td>
+		<td>2637</td>
+	</tr>
+	<tr>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/walf443">
 				<img src="https://avatars.githubusercontent.com/u/2655?s=72&v=4" width="24" alt="Avatar of walf443"> walf443
@@ -1548,19 +1561,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2623</td>
 	</tr>
 	<tr>
-		<td>112</td>
-		<td>
-			<a href="https://github.com/whitphx">
-				<img src="https://avatars.githubusercontent.com/u/3135397?s=72&u=bb8ef21760a59bc6bbe529439f4f8e197d07e390&v=4" width="24" alt="Avatar of whitphx"> whitphx
-			</a><br/>
-			Yuichiro Tachibana (Tsuchiya)
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/whitphx">whitphx</a></td>
-		<td>Tokyo, Japan</td>
-		<td>2615</td>
-	</tr>
-	<tr>
 		<td>113</td>
 		<td>
 			<a href="https://github.com/skanehira">
@@ -1571,10 +1571,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>株式会社テックリード </td>
 		<td><a href="https://twitter.com/gorilla0513">gorilla0513</a></td>
 		<td>Japan</td>
-		<td>2568</td>
+		<td>2588</td>
 	</tr>
 	<tr>
 		<td>114</td>
+		<td>
+			<a href="https://github.com/koic">
+				<img src="https://avatars.githubusercontent.com/u/13203?s=72&u=60f42a553b09bc71f5e399845142fba0ca9e9bb5&v=4" width="24" alt="Avatar of koic"> koic
+			</a><br/>
+			Koichi ITO
+		</td>
+		<td>Esm, Inc. (@esminc) </td>
+		<td><a href="https://twitter.com/koic">koic</a></td>
+		<td>Tokyo, Japan</td>
+		<td>2571</td>
+	</tr>
+	<tr>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/kexi">
 				<img src="https://avatars.githubusercontent.com/u/350671?s=72&u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4" width="24" alt="Avatar of kexi"> kexi
@@ -1587,19 +1600,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2566</td>
 	</tr>
 	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/koic">
-				<img src="https://avatars.githubusercontent.com/u/13203?s=72&u=60f42a553b09bc71f5e399845142fba0ca9e9bb5&v=4" width="24" alt="Avatar of koic"> koic
-			</a><br/>
-			Koichi ITO
-		</td>
-		<td>Esm, Inc. (@esminc) </td>
-		<td><a href="https://twitter.com/koic">koic</a></td>
-		<td>Tokyo, Japan</td>
-		<td>2565</td>
-	</tr>
-	<tr>
 		<td>116</td>
 		<td>
 			<a href="https://github.com/enliven17">
@@ -1610,7 +1610,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/17cankat">17cankat</a></td>
 		<td>Fukui, Japan</td>
-		<td>2545</td>
+		<td>2546</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1623,7 +1623,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>2535</td>
+		<td>2539</td>
 	</tr>
 	<tr>
 		<td>118</td>
@@ -1636,7 +1636,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kaoriya">kaoriya</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2494</td>
+		<td>2496</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1662,7 +1662,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@whatever-co </td>
 		<td><a href="https://twitter.com/Saqoosha">Saqoosha</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2417</td>
+		<td>2421</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1688,7 +1688,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Nihon Ruby-no-kai </td>
 		<td><a href="https://twitter.com/n0kada">n0kada</a></td>
 		<td>Kanuma, Tochigi, Japan</td>
-		<td>2345</td>
+		<td>2355</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1714,7 +1714,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@sakura-internet </td>
 		<td><a href="https://twitter.com/shyouhei">shyouhei</a></td>
 		<td>Tokyo, Japan</td>
-		<td>2301</td>
+		<td>2304</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -1740,13 +1740,13 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Jobleap.cn </td>
 		<td><a href="https://twitter.com/seclink">seclink</a></td>
 		<td>Japan</td>
-		<td>2246</td>
+		<td>2270</td>
 	</tr>
 	<tr>
 		<td>127</td>
 		<td>
 			<a href="https://github.com/KaenBlaze">
-				<img src="https://avatars.githubusercontent.com/u/88930145?s=72&u=bd79afcecc8005f0a35e9d5586fb75aaf8871c8e&v=4" width="24" alt="Avatar of KaenBlaze"> KaenBlaze
+				<img src="https://avatars.githubusercontent.com/u/88930145?s=72&u=a831b623ea7240ec1654e0f9654ee7d4e818427f&v=4" width="24" alt="Avatar of KaenBlaze"> KaenBlaze
 			</a><br/>
 			Kaen
 		</td>
@@ -1779,10 +1779,36 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@sony @ros2 @kubernetes @kubeedge<br/>@cilium<br/>@haivision<br/>@triorb-inc<br/></td>
 		<td><a href="https://twitter.com/TomoyaFujita1">TomoyaFujita1</a></td>
 		<td>Japan</td>
-		<td>2216</td>
+		<td>2226</td>
 	</tr>
 	<tr>
 		<td>130</td>
+		<td>
+			<a href="https://github.com/yusukebe">
+				<img src="https://avatars.githubusercontent.com/u/10682?s=72&u=e25e17b3626c5ed31c5304a9539cff96dd36e7d1&v=4" width="24" alt="Avatar of yusukebe"> yusukebe
+			</a><br/>
+			Yusuke Wada
+		</td>
+		<td>@cloudflare </td>
+		<td><a href="https://twitter.com/yusukebe">yusukebe</a></td>
+		<td>Yokohama, Japan</td>
+		<td>2225</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/sideshowbarker">
+				<img src="https://avatars.githubusercontent.com/u/194984?s=72&v=4" width="24" alt="Avatar of sideshowbarker"> sideshowbarker
+			</a><br/>
+			No Name
+		</td>
+		<td>@w3c </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>2218</td>
+	</tr>
+	<tr>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/miurahr">
 				<img src="https://avatars.githubusercontent.com/u/123720?s=72&u=4c2da6b69c31ca727d919f1776f8933c6560e99a&v=4" width="24" alt="Avatar of miurahr"> miurahr
@@ -1793,32 +1819,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Kita-city, Tokyo, Japan</td>
 		<td>2209</td>
-	</tr>
-	<tr>
-		<td>131</td>
-		<td>
-			<a href="https://github.com/yusukebe">
-				<img src="https://avatars.githubusercontent.com/u/10682?s=72&u=e25e17b3626c5ed31c5304a9539cff96dd36e7d1&v=4" width="24" alt="Avatar of yusukebe"> yusukebe
-			</a><br/>
-			Yusuke Wada
-		</td>
-		<td>@cloudflare </td>
-		<td><a href="https://twitter.com/yusukebe">yusukebe</a></td>
-		<td>Yokohama, Japan</td>
-		<td>2208</td>
-	</tr>
-	<tr>
-		<td>132</td>
-		<td>
-			<a href="https://github.com/sideshowbarker">
-				<img src="https://avatars.githubusercontent.com/u/194984?s=72&v=4" width="24" alt="Avatar of sideshowbarker"> sideshowbarker
-			</a><br/>
-			No Name
-		</td>
-		<td>@w3c </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>2207</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1836,6 +1836,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>134</td>
 		<td>
+			<a href="https://github.com/egisatoshi">
+				<img src="https://avatars.githubusercontent.com/u/753926?s=72&u=550b0351eac4d38dfdf2a6c0e70dbb1a64d39918&v=4" width="24" alt="Avatar of egisatoshi"> egisatoshi
+			</a><br/>
+			Satoshi Egi
+		</td>
+		<td>Rakuten </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>2099</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
 			<a href="https://github.com/pocke">
 				<img src="https://avatars.githubusercontent.com/u/4361134?s=72&v=4" width="24" alt="Avatar of pocke"> pocke
 			</a><br/>
@@ -1844,10 +1857,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@ruby </td>
 		<td><a href="https://twitter.com/p_ck_">p_ck_</a></td>
 		<td>Okayama, Japan</td>
-		<td>2036</td>
+		<td>2049</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
+		<td>
+			<a href="https://github.com/norbusan">
+				<img src="https://avatars.githubusercontent.com/u/1735589?s=72&v=4" width="24" alt="Avatar of norbusan"> norbusan
+			</a><br/>
+			Norbert Preining
+		</td>
+		<td>Arxiv / Cornell University<br/></td>
+		<td><a href="https://twitter.com/norbusan">norbusan</a></td>
+		<td>Vienna, Austria and Ishikawa, Japan</td>
+		<td>2027</td>
+	</tr>
+	<tr>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/haya14busa">
 				<img src="https://avatars.githubusercontent.com/u/3797062?s=72&v=4" width="24" alt="Avatar of haya14busa"> haya14busa
@@ -1860,7 +1886,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2019</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/Anionix">
 				<img src="https://avatars.githubusercontent.com/u/134016296?s=72&u=ad97f4d8f32cc3e464314f7e6ac7ec9f1dceabf2&v=4" width="24" alt="Avatar of Anionix"> Anionix
@@ -1873,20 +1899,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2018</td>
 	</tr>
 	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/norbusan">
-				<img src="https://avatars.githubusercontent.com/u/1735589?s=72&v=4" width="24" alt="Avatar of norbusan"> norbusan
-			</a><br/>
-			Norbert Preining
-		</td>
-		<td>Arxiv / Cornell University<br/></td>
-		<td><a href="https://twitter.com/norbusan">norbusan</a></td>
-		<td>Vienna, Austria and Ishikawa, Japan</td>
-		<td>2015</td>
-	</tr>
-	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/inokawa">
 				<img src="https://avatars.githubusercontent.com/u/48897392?s=72&u=7b703f55be4c10ef70e23d0c2583389ce4de6a4d&v=4" width="24" alt="Avatar of inokawa"> inokawa
@@ -1896,10 +1909,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kanagawa, Japan</td>
-		<td>1978</td>
+		<td>1983</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/hardfist">
 				<img src="https://avatars.githubusercontent.com/u/8898718?s=72&u=ea2bfed7df5b2925cd6668ef5ea2041fbba4b169&v=4" width="24" alt="Avatar of hardfist"> hardfist
@@ -1909,10 +1922,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hardfist_1">hardfist_1</a></td>
 		<td>Tokyo</td>
-		<td>1975</td>
+		<td>1982</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/shibukawa">
 				<img src="https://avatars.githubusercontent.com/u/564612?s=72&u=a158eeb0b91aea7bd7815fccc33ba71be10a509c&v=4" width="24" alt="Avatar of shibukawa"> shibukawa
@@ -1922,10 +1935,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Future Architect, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1956</td>
+		<td>1977</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/RobertTLange">
 				<img src="https://avatars.githubusercontent.com/u/20374662?s=72&u=e0698b272bf419d88e4a32bae7d29cf22165e189&v=4" width="24" alt="Avatar of RobertTLange"> RobertTLange
@@ -1938,7 +1951,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1954</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/Songmu">
 				<img src="https://avatars.githubusercontent.com/u/177122?s=72&v=4" width="24" alt="Avatar of Songmu"> Songmu
@@ -1948,20 +1961,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Github Japan G.k. </td>
 		<td><a href="https://twitter.com/songmu">songmu</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1944</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/SethRobinson">
-				<img src="https://avatars.githubusercontent.com/u/394547?s=72&v=4" width="24" alt="Avatar of SethRobinson"> SethRobinson
-			</a><br/>
-			Seth Robinson
-		</td>
-		<td>Robinson Technologies </td>
-		<td><a href="https://twitter.com/rtsoft">rtsoft</a></td>
-		<td>Japan</td>
-		<td>1890</td>
+		<td>1945</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -1974,10 +1974,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1887</td>
+		<td>1896</td>
 	</tr>
 	<tr>
 		<td>145</td>
+		<td>
+			<a href="https://github.com/SethRobinson">
+				<img src="https://avatars.githubusercontent.com/u/394547?s=72&v=4" width="24" alt="Avatar of SethRobinson"> SethRobinson
+			</a><br/>
+			Seth Robinson
+		</td>
+		<td>Robinson Technologies </td>
+		<td><a href="https://twitter.com/rtsoft">rtsoft</a></td>
+		<td>Japan</td>
+		<td>1890</td>
+	</tr>
+	<tr>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/konn">
 				<img src="https://avatars.githubusercontent.com/u/21860?s=72&u=90a1b2ace34adc2da9619af7f7839fd2e38a67eb&v=4" width="24" alt="Avatar of konn"> konn
@@ -1990,7 +2003,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1882</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/ota-meshi">
 				<img src="https://avatars.githubusercontent.com/u/16508807?s=72&u=bfb63caebfc1d3e0e2e96fd5c2dab6402b552ff0&v=4" width="24" alt="Avatar of ota-meshi"> ota-meshi
@@ -2000,10 +2013,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@future-architect </td>
 		<td><a href="https://twitter.com/omoteota">omoteota</a></td>
 		<td>Kanagawa, Japan</td>
-		<td>1865</td>
+		<td>1875</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/kazuho">
 				<img src="https://avatars.githubusercontent.com/u/41567?s=72&v=4" width="24" alt="Avatar of kazuho"> kazuho
@@ -2013,10 +2026,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@fastly  </td>
 		<td><a href="https://twitter.com/kazuho">kazuho</a></td>
 		<td>Tokyo</td>
-		<td>1845</td>
+		<td>1847</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/tokoik">
 				<img src="https://avatars.githubusercontent.com/u/1043616?s=72&u=de6b760b13e6fb506c7aae53cc63f81ab2e40c4b&v=4" width="24" alt="Avatar of tokoik"> tokoik
@@ -2026,10 +2039,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Faculty Of Systems Engineering,<br/>Wakayama<br/>University<br/></td>
 		<td><a href="https://twitter.com/tokoik">tokoik</a></td>
 		<td>Wakayama, Japan</td>
-		<td>1818</td>
+		<td>1824</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/knu">
 				<img src="https://avatars.githubusercontent.com/u/10236?s=72&v=4" width="24" alt="Avatar of knu"> knu
@@ -2042,7 +2055,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1815</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/zapabob">
 				<img src="https://avatars.githubusercontent.com/u/130830376?s=72&u=305e7e1d44445030467027c1de223586e0b9d3a6&v=4" width="24" alt="Avatar of zapabob"> zapabob
@@ -2052,10 +2065,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>The Open University Of<br/><br/>Japan<br/></td>
 		<td><a href="https://twitter.com/zapabob_ouj">zapabob_ouj</a></td>
 		<td>Tokyo</td>
-		<td>1810</td>
+		<td>1811</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/kazunori279">
 				<img src="https://avatars.githubusercontent.com/u/1623040?s=72&u=1bb0479b87bef8fc6f303b57850cf3da12e48988&v=4" width="24" alt="Avatar of kazunori279"> kazunori279
@@ -2065,10 +2078,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Google, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>1793</td>
+		<td>1807</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/sorah">
 				<img src="https://avatars.githubusercontent.com/u/29440?s=72&u=edb1649250c65e786f7da69605973142d6509dc7&v=4" width="24" alt="Avatar of sorah"> sorah
@@ -2081,7 +2094,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1780</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
+		<td>
+			<a href="https://github.com/dai-shi">
+				<img src="https://avatars.githubusercontent.com/u/490574?s=72&u=be1b1d1e0a5a630f824436d58cfbf960432fe724&v=4" width="24" alt="Avatar of dai-shi"> dai-shi
+			</a><br/>
+			Daishi Kato
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/dai_shi">dai_shi</a></td>
+		<td>Tokyo</td>
+		<td>1776</td>
+	</tr>
+	<tr>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/yshrsmz">
 				<img src="https://avatars.githubusercontent.com/u/654889?s=72&v=4" width="24" alt="Avatar of yshrsmz"> yshrsmz
@@ -2094,20 +2120,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1775</td>
 	</tr>
 	<tr>
-		<td>154</td>
-		<td>
-			<a href="https://github.com/dai-shi">
-				<img src="https://avatars.githubusercontent.com/u/490574?s=72&u=be1b1d1e0a5a630f824436d58cfbf960432fe724&v=4" width="24" alt="Avatar of dai-shi"> dai-shi
-			</a><br/>
-			Daishi Kato
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/dai_shi">dai_shi</a></td>
-		<td>Tokyo</td>
-		<td>1771</td>
-	</tr>
-	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/TimOliver">
 				<img src="https://avatars.githubusercontent.com/u/429119?s=72&u=98d2e07b76dcb3afdd5786b1e8fa102f2c125f01&v=4" width="24" alt="Avatar of TimOliver"> TimOliver
@@ -2117,10 +2130,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Third Intelligence Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Perth, Australia + Tokyo, Japan</td>
-		<td>1729</td>
+		<td>1737</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/kyamagu">
 				<img src="https://avatars.githubusercontent.com/u/1190780?s=72&u=36adbe8e27260e478177544e1283695f87515d81&v=4" width="24" alt="Avatar of kyamagu"> kyamagu
@@ -2130,10 +2143,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@cyberagentailab  </td>
 		<td><a href="https://twitter.com/kotymg">kotymg</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1726</td>
+		<td>1731</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/yutannihilation">
 				<img src="https://avatars.githubusercontent.com/u/1978793?s=72&v=4" width="24" alt="Avatar of yutannihilation"> yutannihilation
@@ -2143,10 +2156,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1723</td>
+		<td>1724</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/jsakamoto">
 				<img src="https://avatars.githubusercontent.com/u/95908?s=72&v=4" width="24" alt="Avatar of jsakamoto"> jsakamoto
@@ -2156,10 +2169,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jsakamoto">jsakamoto</a></td>
 		<td>Japan</td>
-		<td>1719</td>
+		<td>1720</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/iebb">
 				<img src="https://avatars.githubusercontent.com/u/2127498?s=72&u=b5966354ad3b2d65be395bc572baf8761a5cae4c&v=4" width="24" alt="Avatar of iebb"> iebb
@@ -2169,10 +2182,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Fukuoka City, Japan</td>
-		<td>1695</td>
+		<td>1697</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/waylandzhang">
 				<img src="https://avatars.githubusercontent.com/u/1622648?s=72&u=f312afa4137f70abab351b2f7bb486762519ee16&v=4" width="24" alt="Avatar of waylandzhang"> waylandzhang
@@ -2182,10 +2195,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/WaylandZhang">WaylandZhang</a></td>
 		<td>Tokyo</td>
-		<td>1691</td>
+		<td>1693</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/babarot">
 				<img src="https://avatars.githubusercontent.com/u/4442708?s=72&u=bb38b0d35a2cfd51aac1343463c2348be7e0013b&v=4" width="24" alt="Avatar of babarot"> babarot
@@ -2198,7 +2211,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1669</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/privatenumber">
 				<img src="https://avatars.githubusercontent.com/u/1075694?s=72&u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4" width="24" alt="Avatar of privatenumber"> privatenumber
@@ -2211,33 +2224,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1655</td>
 	</tr>
 	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/Shougo">
-				<img src="https://avatars.githubusercontent.com/u/41495?s=72&v=4" width="24" alt="Avatar of Shougo"> Shougo
-			</a><br/>
-			Shougo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>1646</td>
-	</tr>
-	<tr>
 		<td>164</td>
-		<td>
-			<a href="https://github.com/noborus">
-				<img src="https://avatars.githubusercontent.com/u/2296563?s=72&u=aba171f20bd52948f1259fb5f676c98647bdeb91&v=4" width="24" alt="Avatar of noborus"> noborus
-			</a><br/>
-			Noboru Saito
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nagoya, Japan </td>
-		<td>1631</td>
-	</tr>
-	<tr>
-		<td>165</td>
 		<td>
 			<a href="https://github.com/mayocream">
 				<img src="https://avatars.githubusercontent.com/u/35420264?s=72&u=c68292fbb19178c6f5979f4b4614e8a651e7f1aa&v=4" width="24" alt="Avatar of mayocream"> mayocream
@@ -2247,10 +2234,49 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Woven By Toyota </td>
 		<td><a href="https://twitter.com/mayo_irl">mayo_irl</a></td>
 		<td>Tokyo</td>
-		<td>1621</td>
+		<td>1654</td>
+	</tr>
+	<tr>
+		<td>165</td>
+		<td>
+			<a href="https://github.com/Shougo">
+				<img src="https://avatars.githubusercontent.com/u/41495?s=72&v=4" width="24" alt="Avatar of Shougo"> Shougo
+			</a><br/>
+			Shougo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>1647</td>
 	</tr>
 	<tr>
 		<td>166</td>
+		<td>
+			<a href="https://github.com/noborus">
+				<img src="https://avatars.githubusercontent.com/u/2296563?s=72&u=aba171f20bd52948f1259fb5f676c98647bdeb91&v=4" width="24" alt="Avatar of noborus"> noborus
+			</a><br/>
+			Noboru Saito
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nagoya, Japan </td>
+		<td>1632</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/ktoso">
+				<img src="https://avatars.githubusercontent.com/u/120979?s=72&u=303784755edf774dbb6e9e33434e7a0b4adbf2cd&v=4" width="24" alt="Avatar of ktoso"> ktoso
+			</a><br/>
+			Konrad `ktoso` Malawski
+		</td>
+		<td>We Sell Fruit. ¯\_(ツ)_/¯<br/><br/></td>
+		<td><a href="https://twitter.com/ktosopl">ktosopl</a></td>
+		<td>I'm fine, thanks! Tokyo</td>
+		<td>1626</td>
+	</tr>
+	<tr>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/nwtgck">
 				<img src="https://avatars.githubusercontent.com/u/10933561?s=72&u=a862b6d1745a21d150bd288815327df84a15f819&v=4" width="24" alt="Avatar of nwtgck"> nwtgck
@@ -2263,7 +2289,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1621</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/lacolaco">
 				<img src="https://avatars.githubusercontent.com/u/1529180?s=72&u=dfa087fa30271d08a6320ea49590f08a58ff4f1b&v=4" width="24" alt="Avatar of lacolaco"> lacolaco
@@ -2276,20 +2302,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1616</td>
 	</tr>
 	<tr>
-		<td>168</td>
-		<td>
-			<a href="https://github.com/ktoso">
-				<img src="https://avatars.githubusercontent.com/u/120979?s=72&u=303784755edf774dbb6e9e33434e7a0b4adbf2cd&v=4" width="24" alt="Avatar of ktoso"> ktoso
-			</a><br/>
-			Konrad `ktoso` Malawski
-		</td>
-		<td>We Sell Fruit. ¯\_(ツ)_/¯<br/><br/></td>
-		<td><a href="https://twitter.com/ktosopl">ktosopl</a></td>
-		<td>I'm fine, thanks! Tokyo</td>
-		<td>1612</td>
-	</tr>
-	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/tigercosmos">
 				<img src="https://avatars.githubusercontent.com/u/18013815?s=72&u=6a754be5edf8510246bc8a7dc71d8f8c5cdac103&v=4" width="24" alt="Avatar of tigercosmos"> tigercosmos
@@ -2299,10 +2312,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@t2-auto </td>
 		<td><a href="https://twitter.com/tigercosmos">tigercosmos</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1577</td>
+		<td>1598</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/ymotongpoo">
 				<img src="https://avatars.githubusercontent.com/u/145104?s=72&u=aceabad51967151eb61ea752273962360b910e10&v=4" width="24" alt="Avatar of ymotongpoo"> ymotongpoo
@@ -2312,10 +2325,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Grafana Labs </td>
 		<td><a href="https://twitter.com/ymotongpoo">ymotongpoo</a></td>
 		<td>Yamanashi, Japan</td>
-		<td>1573</td>
+		<td>1576</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/rob0pup">
 				<img src="https://avatars.githubusercontent.com/u/38285616?s=72&u=29bf59de76a31b4d8dc60ff973a97ba0746344ae&v=4" width="24" alt="Avatar of rob0pup"> rob0pup
@@ -2328,7 +2341,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1569</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/mika-f">
 				<img src="https://avatars.githubusercontent.com/u/10832834?s=72&u=847f31115f5b36d1943285d62f0dcf4fd212dd2b&v=4" width="24" alt="Avatar of mika-f"> mika-f
@@ -2341,7 +2354,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1569</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/eltociear">
 				<img src="https://avatars.githubusercontent.com/u/22633385?s=72&u=29190f6c8aed91fa9574b064a9995f1e49944acf&v=4" width="24" alt="Avatar of eltociear"> eltociear
@@ -2351,10 +2364,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>1552</td>
+		<td>1564</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/taisukef">
 				<img src="https://avatars.githubusercontent.com/u/1715217?s=72&u=629ca75b389db21f45fc67e51d074a4904c92e29&v=4" width="24" alt="Avatar of taisukef"> taisukef
@@ -2364,10 +2377,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Jig.jp </td>
 		<td><a href="https://twitter.com/taisukef">taisukef</a></td>
 		<td>Sabae, FUKUI, Japan</td>
-		<td>1549</td>
+		<td>1551</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/nwiizo">
 				<img src="https://avatars.githubusercontent.com/u/12461120?s=72&u=82a37d37019cf4a2fc7e52fb78f43d4accb0eaef&v=4" width="24" alt="Avatar of nwiizo"> nwiizo
@@ -2378,19 +2391,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/nwiizo">nwiizo</a></td>
 		<td>Tokyo, Japan</td>
 		<td>1549</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/egisatoshi">
-				<img src="https://avatars.githubusercontent.com/u/753926?s=72&u=550b0351eac4d38dfdf2a6c0e70dbb1a64d39918&v=4" width="24" alt="Avatar of egisatoshi"> egisatoshi
-			</a><br/>
-			Satoshi Egi
-		</td>
-		<td>Rakuten </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>1545</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2408,19 +2408,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>178</td>
 		<td>
-			<a href="https://github.com/udzura">
-				<img src="https://avatars.githubusercontent.com/u/91011?s=72&u=c06ef3d14ad9739abb590476ce370fb4b9f82f30&v=4" width="24" alt="Avatar of udzura"> udzura
-			</a><br/>
-			Kondo Uchio
-		</td>
-		<td>Smarthr, Inc. </td>
-		<td><a href="https://twitter.com/udzura">udzura</a></td>
-		<td>Fukuoka, Japan</td>
-		<td>1512</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
 			<a href="https://github.com/kazeburo">
 				<img src="https://avatars.githubusercontent.com/u/46764?s=72&u=167181969969deb6dbecb5bca519db379e413e6d&v=4" width="24" alt="Avatar of kazeburo"> kazeburo
 			</a><br/>
@@ -2429,10 +2416,36 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>さくらインターネット </td>
 		<td><a href="https://twitter.com/kazeburo">kazeburo</a></td>
 		<td>yokohama, japan</td>
-		<td>1511</td>
+		<td>1520</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/udzura">
+				<img src="https://avatars.githubusercontent.com/u/91011?s=72&u=c06ef3d14ad9739abb590476ce370fb4b9f82f30&v=4" width="24" alt="Avatar of udzura"> udzura
+			</a><br/>
+			Kondo Uchio
+		</td>
+		<td>Smarthr, Inc. </td>
+		<td><a href="https://twitter.com/udzura">udzura</a></td>
+		<td>Fukuoka, Japan</td>
+		<td>1515</td>
 	</tr>
 	<tr>
 		<td>180</td>
+		<td>
+			<a href="https://github.com/deepak1556">
+				<img src="https://avatars.githubusercontent.com/u/964386?s=72&v=4" width="24" alt="Avatar of deepak1556"> deepak1556
+			</a><br/>
+			Robo
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>1504</td>
+	</tr>
+	<tr>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/fujita">
 				<img src="https://avatars.githubusercontent.com/u/726426?s=72&v=4" width="24" alt="Avatar of fujita"> fujita
@@ -2445,7 +2458,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1503</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/luadebug">
 				<img src="https://avatars.githubusercontent.com/u/109693307?s=72&u=848d649408c77640dff7b259e274cc1706e9cb12&v=4" width="24" alt="Avatar of luadebug"> luadebug
@@ -2456,19 +2469,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Japan, Tokyo</td>
 		<td>1502</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/deepak1556">
-				<img src="https://avatars.githubusercontent.com/u/964386?s=72&v=4" width="24" alt="Avatar of deepak1556"> deepak1556
-			</a><br/>
-			Robo
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>1498</td>
 	</tr>
 	<tr>
 		<td>183</td>
@@ -2494,7 +2494,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Knowledge Work Inc. </td>
 		<td><a href="https://twitter.com/wadackel">wadackel</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1482</td>
+		<td>1483</td>
 	</tr>
 	<tr>
 		<td>185</td>
@@ -2507,7 +2507,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Gijutsu-hyoron Co.,ltd. </td>
 		<td><a href="https://twitter.com/daisuke">daisuke</a></td>
 		<td>IKEBUKURO tokyo</td>
-		<td>1470</td>
+		<td>1481</td>
 	</tr>
 	<tr>
 		<td>186</td>
@@ -2546,7 +2546,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Earth </td>
 		<td>No Twitter Username</td>
 		<td>Yokohama, Japan</td>
-		<td>1460</td>
+		<td>1463</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -2559,7 +2559,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/syohex">syohex</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1438</td>
+		<td>1440</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -2572,10 +2572,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/melponn">melponn</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1428</td>
+		<td>1437</td>
 	</tr>
 	<tr>
 		<td>191</td>
+		<td>
+			<a href="https://github.com/takahirom">
+				<img src="https://avatars.githubusercontent.com/u/1386930?s=72&u=ded0546028d0c2993d504475d0de5f34d8cafc24&v=4" width="24" alt="Avatar of takahirom"> takahirom
+			</a><br/>
+			Takahiro Menju
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>1431</td>
+	</tr>
+	<tr>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/domenic">
 				<img src="https://avatars.githubusercontent.com/u/617481?s=72&v=4" width="24" alt="Avatar of domenic"> domenic
@@ -2585,10 +2598,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/domenic">domenic</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1422</td>
+		<td>1426</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/cho45">
 				<img src="https://avatars.githubusercontent.com/u/3092?s=72&u=5814f21fad12812e6bf5d7a87e3180defc59d77e&v=4" width="24" alt="Avatar of cho45"> cho45
@@ -2601,19 +2614,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1422</td>
 	</tr>
 	<tr>
-		<td>193</td>
-		<td>
-			<a href="https://github.com/takahirom">
-				<img src="https://avatars.githubusercontent.com/u/1386930?s=72&u=ded0546028d0c2993d504475d0de5f34d8cafc24&v=4" width="24" alt="Avatar of takahirom"> takahirom
-			</a><br/>
-			Takahiro Menju
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>1420</td>
-	</tr>
-	<tr>
 		<td>194</td>
 		<td>
 			<a href="https://github.com/hashrock">
@@ -2624,7 +2624,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1416</td>
+		<td>1419</td>
 	</tr>
 	<tr>
 		<td>195</td>
@@ -2663,7 +2663,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@chronosphereio </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>1367</td>
+		<td>1368</td>
 	</tr>
 	<tr>
 		<td>198</td>
@@ -2676,7 +2676,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/inkdrop_app">inkdrop_app</a></td>
 		<td>Osaka, Japan</td>
-		<td>1358</td>
+		<td>1361</td>
 	</tr>
 	<tr>
 		<td>199</td>
@@ -2689,7 +2689,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sapporo, Japan</td>
-		<td>1352</td>
+		<td>1354</td>
 	</tr>
 	<tr>
 		<td>200</td>
@@ -2715,7 +2715,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@yet-another-ai </td>
 		<td><a href="https://twitter.com/DeltonDing">DeltonDing</a></td>
 		<td>Shanghai ⇌ Tokyo</td>
-		<td>1334</td>
+		<td>1335</td>
 	</tr>
 	<tr>
 		<td>202</td>
@@ -2741,7 +2741,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@shopify </td>
 		<td><a href="https://twitter.com/peterzhu2118">peterzhu2118</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1311</td>
+		<td>1320</td>
 	</tr>
 	<tr>
 		<td>204</td>
@@ -2754,7 +2754,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1306</td>
+		<td>1317</td>
 	</tr>
 	<tr>
 		<td>205</td>
@@ -2780,7 +2780,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Blue Whale Systems </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1292</td>
+		<td>1295</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -2806,10 +2806,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1256</td>
+		<td>1257</td>
 	</tr>
 	<tr>
 		<td>209</td>
+		<td>
+			<a href="https://github.com/soutaro">
+				<img src="https://avatars.githubusercontent.com/u/139089?s=72&u=5a4b1b73ae7f8d1dc2991bea6b2cbf43c3111a56&v=4" width="24" alt="Avatar of soutaro"> soutaro
+			</a><br/>
+			Soutaro Matsumoto
+		</td>
+		<td>@shopify </td>
+		<td><a href="https://twitter.com/soutaro">soutaro</a></td>
+		<td>Tokyo, Japan</td>
+		<td>1256</td>
+	</tr>
+	<tr>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/kaityo256">
 				<img src="https://avatars.githubusercontent.com/u/1335564?s=72&u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" width="24" alt="Avatar of kaityo256"> kaityo256
@@ -2820,19 +2833,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/kaityo256">kaityo256</a></td>
 		<td>Japan</td>
 		<td>1255</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/soutaro">
-				<img src="https://avatars.githubusercontent.com/u/139089?s=72&u=5a4b1b73ae7f8d1dc2991bea6b2cbf43c3111a56&v=4" width="24" alt="Avatar of soutaro"> soutaro
-			</a><br/>
-			Soutaro Matsumoto
-		</td>
-		<td>@shopify </td>
-		<td><a href="https://twitter.com/soutaro">soutaro</a></td>
-		<td>Tokyo, Japan</td>
-		<td>1249</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -2863,6 +2863,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>213</td>
 		<td>
+			<a href="https://github.com/neka-nat">
+				<img src="https://avatars.githubusercontent.com/u/991515?s=72&u=ddc531a7af648a4590b51735b5c6d68ec6c0367f&v=4" width="24" alt="Avatar of neka-nat"> neka-nat
+			</a><br/>
+			k-tanaka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>JAPAN</td>
+		<td>1222</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
 			<a href="https://github.com/NicolasDorier">
 				<img src="https://avatars.githubusercontent.com/u/3020646?s=72&u=256d78207f88d303d61b62060a309657276cf6cb&v=4" width="24" alt="Avatar of NicolasDorier"> NicolasDorier
 			</a><br/>
@@ -2871,10 +2884,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NicolasDorier">NicolasDorier</a></td>
 		<td>Tokyo</td>
-		<td>1220</td>
+		<td>1221</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/taichi-ishitani">
 				<img src="https://avatars.githubusercontent.com/u/2922232?s=72&u=648ee3e34653db857c3a854da78977131370ab7c&v=4" width="24" alt="Avatar of taichi-ishitani"> taichi-ishitani
@@ -2887,7 +2900,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1219</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/rhysd">
 				<img src="https://avatars.githubusercontent.com/u/823277?s=72&u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4" width="24" alt="Avatar of rhysd"> rhysd
@@ -2900,7 +2913,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1218</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
+		<td>
+			<a href="https://github.com/rmackay9">
+				<img src="https://avatars.githubusercontent.com/u/1498098?s=72&v=4" width="24" alt="Avatar of rmackay9"> rmackay9
+			</a><br/>
+			Randy Mackay
+		</td>
+		<td>Japan Drones </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>1216</td>
+	</tr>
+	<tr>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/aki-ph-chem">
 				<img src="https://avatars.githubusercontent.com/u/77914655?s=72&u=a32d9a9be95eb66259c43568b30cd295708f36cd&v=4" width="24" alt="Avatar of aki-ph-chem"> aki-ph-chem
@@ -2913,46 +2939,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1215</td>
 	</tr>
 	<tr>
-		<td>217</td>
-		<td>
-			<a href="https://github.com/rmackay9">
-				<img src="https://avatars.githubusercontent.com/u/1498098?s=72&v=4" width="24" alt="Avatar of rmackay9"> rmackay9
-			</a><br/>
-			Randy Mackay
-		</td>
-		<td>Japan Drones </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>1214</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/neka-nat">
-				<img src="https://avatars.githubusercontent.com/u/991515?s=72&u=ddc531a7af648a4590b51735b5c6d68ec6c0367f&v=4" width="24" alt="Avatar of neka-nat"> neka-nat
-			</a><br/>
-			k-tanaka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>JAPAN</td>
-		<td>1212</td>
-	</tr>
-	<tr>
 		<td>219</td>
-		<td>
-			<a href="https://github.com/ryo8000">
-				<img src="https://avatars.githubusercontent.com/u/49798519?s=72&u=f166ac98cdb05754f6f0da86d1c58667c2899700&v=4" width="24" alt="Avatar of ryo8000"> ryo8000
-			</a><br/>
-			Ryo Hasegawa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>1200</td>
-	</tr>
-	<tr>
-		<td>220</td>
 		<td>
 			<a href="https://github.com/uhyo">
 				<img src="https://avatars.githubusercontent.com/u/748348?s=72&u=f149447bf63a3a5907f8e6120cc25854bf8065f1&v=4" width="24" alt="Avatar of uhyo"> uhyo
@@ -2962,7 +2949,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/uhyo_">uhyo_</a></td>
 		<td>Tokyo</td>
-		<td>1196</td>
+		<td>1213</td>
+	</tr>
+	<tr>
+		<td>220</td>
+		<td>
+			<a href="https://github.com/piroor">
+				<img src="https://avatars.githubusercontent.com/u/70062?s=72&u=70b1cfad1e65a349d6b9a6fae01d2d807a2db22a&v=4" width="24" alt="Avatar of piroor"> piroor
+			</a><br/>
+			YUKI "Piro" Hiroshi
+		</td>
+		<td>Clearcode Inc. Http://www.clear-cod </td>
+		<td><a href="https://twitter.com/piro_or">piro_or</a></td>
+		<td>Tokyo, Japan</td>
+		<td>1210</td>
 	</tr>
 	<tr>
 		<td>221</td>
@@ -2975,10 +2975,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Recruiters: Don't Email Me<br/></td>
 		<td><a href="https://twitter.com/about_hiroppy">about_hiroppy</a></td>
 		<td>Tokyo / Japan</td>
-		<td>1193</td>
+		<td>1203</td>
 	</tr>
 	<tr>
 		<td>222</td>
+		<td>
+			<a href="https://github.com/ryo8000">
+				<img src="https://avatars.githubusercontent.com/u/49798519?s=72&u=f166ac98cdb05754f6f0da86d1c58667c2899700&v=4" width="24" alt="Avatar of ryo8000"> ryo8000
+			</a><br/>
+			Ryo Hasegawa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>1200</td>
+	</tr>
+	<tr>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/moriyoshi">
 				<img src="https://avatars.githubusercontent.com/u/18755?s=72&u=f97f0d92297bd510d1146f5ec2fcba55cc063777&v=4" width="24" alt="Avatar of moriyoshi"> moriyoshi
@@ -2988,10 +3001,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@kenall-inc  </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>1192</td>
+		<td>1196</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/viasnake">
 				<img src="https://avatars.githubusercontent.com/u/6961187?s=72&u=5866decb7f5f3aa4640132af45217b0953004bf1&v=4" width="24" alt="Avatar of viasnake"> viasnake
@@ -3001,20 +3014,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/viasnake">viasnake</a></td>
 		<td>Japan</td>
-		<td>1192</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/piroor">
-				<img src="https://avatars.githubusercontent.com/u/70062?s=72&u=70b1cfad1e65a349d6b9a6fae01d2d807a2db22a&v=4" width="24" alt="Avatar of piroor"> piroor
-			</a><br/>
-			YUKI "Piro" Hiroshi
-		</td>
-		<td>Clearcode Inc. Http://www.clear-cod </td>
-		<td><a href="https://twitter.com/piro_or">piro_or</a></td>
-		<td>Tokyo, Japan</td>
-		<td>1191</td>
+		<td>1193</td>
 	</tr>
 	<tr>
 		<td>225</td>
@@ -3053,7 +3053,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Taaas </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1174</td>
+		<td>1178</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -3079,7 +3079,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@jij-inc  </td>
 		<td><a href="https://twitter.com/termoshtt">termoshtt</a></td>
 		<td>Japan</td>
-		<td>1155</td>
+		<td>1159</td>
 	</tr>
 	<tr>
 		<td>230</td>
@@ -3105,7 +3105,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan, Kanagawa</td>
-		<td>1144</td>
+		<td>1146</td>
 	</tr>
 	<tr>
 		<td>232</td>
@@ -3118,7 +3118,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hewigovens">hewigovens</a></td>
 		<td>Tokyo</td>
-		<td>1138</td>
+		<td>1142</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -3136,19 +3136,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>234</td>
 		<td>
-			<a href="https://github.com/aoi1026">
-				<img src="https://avatars.githubusercontent.com/u/56523111?s=72&v=4" width="24" alt="Avatar of aoi1026"> aoi1026
-			</a><br/>
-			AOI
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>1128</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
 			<a href="https://github.com/hatoo">
 				<img src="https://avatars.githubusercontent.com/u/1667746?s=72&v=4" width="24" alt="Avatar of hatoo"> hatoo
 			</a><br/>
@@ -3157,10 +3144,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hatookov">hatookov</a></td>
 		<td>Kawasaki, Japan</td>
-		<td>1128</td>
+		<td>1129</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/iAJue">
 				<img src="https://avatars.githubusercontent.com/u/32321958?s=72&u=92c7e485ae43955696a5690ab5343be50cace5bc&v=4" width="24" alt="Avatar of iAJue"> iAJue
@@ -3170,7 +3157,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>国立音ノ木坂学院 </td>
 		<td><a href="https://twitter.com/MoeAjue">MoeAjue</a></td>
 		<td>Akihabara, Japan</td>
-		<td>1126</td>
+		<td>1128</td>
+	</tr>
+	<tr>
+		<td>236</td>
+		<td>
+			<a href="https://github.com/aoi1026">
+				<img src="https://avatars.githubusercontent.com/u/56523111?s=72&v=4" width="24" alt="Avatar of aoi1026"> aoi1026
+			</a><br/>
+			AOI
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>1128</td>
 	</tr>
 	<tr>
 		<td>237</td>
@@ -3209,7 +3209,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/haoict">haoict</a></td>
 		<td>Japan</td>
-		<td>1107</td>
+		<td>1108</td>
 	</tr>
 	<tr>
 		<td>240</td>
@@ -3222,7 +3222,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Davetangdotorg </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1107</td>
+		<td>1108</td>
 	</tr>
 	<tr>
 		<td>241</td>
@@ -3235,7 +3235,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Ugo, Inc </td>
 		<td><a href="https://twitter.com/meganetaaan">meganetaaan</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1092</td>
+		<td>1093</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -3248,7 +3248,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@eure  </td>
 		<td><a href="https://twitter.com/muukii_app">muukii_app</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1086</td>
+		<td>1089</td>
 	</tr>
 	<tr>
 		<td>243</td>
@@ -3287,10 +3287,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Cyberagent, Inc. </td>
 		<td><a href="https://twitter.com/wasabeef_jp">wasabeef_jp</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1069</td>
+		<td>1070</td>
 	</tr>
 	<tr>
 		<td>246</td>
+		<td>
+			<a href="https://github.com/siketyan">
+				<img src="https://avatars.githubusercontent.com/u/12772118?s=72&u=1a51e0a06690e52982e7594bc7379481e65155a1&v=4" width="24" alt="Avatar of siketyan"> siketyan
+			</a><br/>
+			Naoki Ikeguchi
+		</td>
+		<td>@bitkey-oss </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>1064</td>
+	</tr>
+	<tr>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/hadashiA">
 				<img src="https://avatars.githubusercontent.com/u/727159?s=72&u=ba0342c38a95dc8f25bd72d62a63aa4f014a7c1f&v=4" width="24" alt="Avatar of hadashiA"> hadashiA
@@ -3303,7 +3316,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1063</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/smorimoto">
 				<img src="https://avatars.githubusercontent.com/u/38746192?s=72&u=887b1a5dcfc5078c41c7e63c855416ff15569cbe&v=4" width="24" alt="Avatar of smorimoto"> smorimoto
@@ -3316,7 +3329,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1062</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/jfbastien">
 				<img src="https://avatars.githubusercontent.com/u/298127?s=72&u=cea7d1f04218d0129069092c16ea63c19a7c4a27&v=4" width="24" alt="Avatar of jfbastien"> jfbastien
@@ -3329,7 +3342,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1058</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/magurotuna">
 				<img src="https://avatars.githubusercontent.com/u/23649474?s=72&u=4a2778ba06de1dc6bab57f8ae2678d52e0b2bb07&v=4" width="24" alt="Avatar of magurotuna"> magurotuna
@@ -3339,20 +3352,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@denoland </td>
 		<td><a href="https://twitter.com/yusuktan">yusuktan</a></td>
 		<td>Tokyo, Japan</td>
-		<td>1047</td>
-	</tr>
-	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/siketyan">
-				<img src="https://avatars.githubusercontent.com/u/12772118?s=72&u=1a51e0a06690e52982e7594bc7379481e65155a1&v=4" width="24" alt="Avatar of siketyan"> siketyan
-			</a><br/>
-			Naoki Ikeguchi
-		</td>
-		<td>@bitkey-oss </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>1039</td>
+		<td>1052</td>
 	</tr>
 	<tr>
 		<td>251</td>
@@ -3378,7 +3378,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@geolonia </td>
 		<td><a href="https://twitter.com/miya0001">miya0001</a></td>
 		<td>Kushimoto-cho Higashimuro-gun, Wakayama, 649-3511, Japan</td>
-		<td>1035</td>
+		<td>1037</td>
 	</tr>
 	<tr>
 		<td>253</td>
@@ -3430,7 +3430,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@instance0 @lifeistech </td>
 		<td><a href="https://twitter.com/ngs">ngs</a></td>
 		<td>Meguro, Tokyo, JAPAN</td>
-		<td>1004</td>
+		<td>1007</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -3456,7 +3456,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Osaka, Japan</td>
-		<td>993</td>
+		<td>1000</td>
 	</tr>
 	<tr>
 		<td>259</td>
@@ -3469,10 +3469,36 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Studio Daito Manabe </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>991</td>
+		<td>992</td>
 	</tr>
 	<tr>
 		<td>260</td>
+		<td>
+			<a href="https://github.com/zcbenz">
+				<img src="https://avatars.githubusercontent.com/u/639601?s=72&u=b726a177170e74aa10fc3061f27da82822fa29d3&v=4" width="24" alt="Avatar of zcbenz"> zcbenz
+			</a><br/>
+			Cheng
+		</td>
+		<td>Apple </td>
+		<td><a href="https://twitter.com/zcbenz">zcbenz</a></td>
+		<td>Japan</td>
+		<td>990</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/takano32">
+				<img src="https://avatars.githubusercontent.com/u/16088?s=72&u=61ce32ccb6f011fa25734beeb3afa8ad52430840&v=4" width="24" alt="Avatar of takano32"> takano32
+			</a><br/>
+			TAKANO Mitsuhiro
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/takano32">takano32</a></td>
+		<td>Sakura, Chiba, Japan</td>
+		<td>985</td>
+	</tr>
+	<tr>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/willnet">
 				<img src="https://avatars.githubusercontent.com/u/82371?s=72&v=4" width="24" alt="Avatar of willnet"> willnet
@@ -3485,20 +3511,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>980</td>
 	</tr>
 	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/zcbenz">
-				<img src="https://avatars.githubusercontent.com/u/639601?s=72&u=b726a177170e74aa10fc3061f27da82822fa29d3&v=4" width="24" alt="Avatar of zcbenz"> zcbenz
-			</a><br/>
-			Cheng
-		</td>
-		<td>Apple </td>
-		<td><a href="https://twitter.com/zcbenz">zcbenz</a></td>
-		<td>Japan</td>
-		<td>979</td>
-	</tr>
-	<tr>
-		<td>262</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/onyx766">
 				<img src="https://avatars.githubusercontent.com/u/97839749?s=72&u=03d00b83a67df617c1923cdf65e232a7d2c14c9a&v=4" width="24" alt="Avatar of onyx766"> onyx766
@@ -3511,20 +3524,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>978</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>264</td>
 		<td>
-			<a href="https://github.com/takano32">
-				<img src="https://avatars.githubusercontent.com/u/16088?s=72&u=61ce32ccb6f011fa25734beeb3afa8ad52430840&v=4" width="24" alt="Avatar of takano32"> takano32
+			<a href="https://github.com/runceel">
+				<img src="https://avatars.githubusercontent.com/u/79868?s=72&u=f27035ba2c120d037e733518019fe27c84c4d414&v=4" width="24" alt="Avatar of runceel"> runceel
 			</a><br/>
-			TAKANO Mitsuhiro
+			Kazuki Ota
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/takano32">takano32</a></td>
-		<td>Sakura, Chiba, Japan</td>
-		<td>959</td>
+		<td>Microsoft Japan </td>
+		<td><a href="https://twitter.com/okazuki">okazuki</a></td>
+		<td>Japan</td>
+		<td>960</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/kazu-yamamoto">
 				<img src="https://avatars.githubusercontent.com/u/165387?s=72&v=4" width="24" alt="Avatar of kazu-yamamoto"> kazu-yamamoto
@@ -3535,19 +3548,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/kazu_yamamoto">kazu_yamamoto</a></td>
 		<td>Tokyo, JAPAN</td>
 		<td>952</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
-			<a href="https://github.com/runceel">
-				<img src="https://avatars.githubusercontent.com/u/79868?s=72&u=f27035ba2c120d037e733518019fe27c84c4d414&v=4" width="24" alt="Avatar of runceel"> runceel
-			</a><br/>
-			Kazuki Ota
-		</td>
-		<td>Microsoft Japan </td>
-		<td><a href="https://twitter.com/okazuki">okazuki</a></td>
-		<td>Japan</td>
-		<td>941</td>
 	</tr>
 	<tr>
 		<td>266</td>
@@ -3578,6 +3578,45 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>268</td>
 		<td>
+			<a href="https://github.com/moznion">
+				<img src="https://avatars.githubusercontent.com/u/1422834?s=72&v=4" width="24" alt="Avatar of moznion"> moznion
+			</a><br/>
+			moznion
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/moznion">moznion</a></td>
+		<td>Tokyo, Japan</td>
+		<td>936</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
+			<a href="https://github.com/dreamhunter2333">
+				<img src="https://avatars.githubusercontent.com/u/32295532?s=72&u=826e7cda860335b939445106f62e2d65425c8bed&v=4" width="24" alt="Avatar of dreamhunter2333"> dreamhunter2333
+			</a><br/>
+			Dream Hunter
+		</td>
+		<td>@awsl-project </td>
+		<td><a href="https://twitter.com/dreamhunter2333">dreamhunter2333</a></td>
+		<td>Tokyo</td>
+		<td>920</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/faithandbrave">
+				<img src="https://avatars.githubusercontent.com/u/240038?s=72&u=10b88c50ab06d592b415513fe79e20dd7732dd5f&v=4" width="24" alt="Avatar of faithandbrave"> faithandbrave
+			</a><br/>
+			Akira Takahashi
+		</td>
+		<td>Preferred Networks, Inc. </td>
+		<td><a href="https://twitter.com/cpp_akira">cpp_akira</a></td>
+		<td>Japan</td>
+		<td>916</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
 			<a href="https://github.com/yuto-kazuma">
 				<img src="https://avatars.githubusercontent.com/u/250971963?s=72&u=efb02903fa0618e95e3f363ed9b9a13a4d5a63ef&v=4" width="24" alt="Avatar of yuto-kazuma"> yuto-kazuma
 			</a><br/>
@@ -3589,7 +3628,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>914</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/yude">
+				<img src="https://avatars.githubusercontent.com/u/14804458?s=72&u=a6ef405001fe9cb29db3eedaa0ad4401a15135b9&v=4" width="24" alt="Avatar of yude"> yude
+			</a><br/>
+			Takehiro Ogura
+		</td>
+		<td>Internet Initiative Japan Inc.<br/></td>
+		<td>No Twitter Username</td>
+		<td>Chiba, Japan</td>
+		<td>910</td>
+	</tr>
+	<tr>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/DayuanJiang">
 				<img src="https://avatars.githubusercontent.com/u/34411969?s=72&u=2e39723139bb0dae3d267fc55e8cbc9e705455be&v=4" width="24" alt="Avatar of DayuanJiang"> DayuanJiang
@@ -3602,20 +3654,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>909</td>
 	</tr>
 	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/yude">
-				<img src="https://avatars.githubusercontent.com/u/14804458?s=72&u=a6ef405001fe9cb29db3eedaa0ad4401a15135b9&v=4" width="24" alt="Avatar of yude"> yude
-			</a><br/>
-			Takehiro Ogura
-		</td>
-		<td>Internet Initiative Japan Inc.<br/></td>
-		<td>No Twitter Username</td>
-		<td>Chiba, Japan</td>
-		<td>909</td>
-	</tr>
-	<tr>
-		<td>271</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/aliceinwire">
 				<img src="https://avatars.githubusercontent.com/u/107572?s=72&u=39dddc1a2173070bfb95564e533d75e97486d72a&v=4" width="24" alt="Avatar of aliceinwire"> aliceinwire
@@ -3628,20 +3667,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>908</td>
 	</tr>
 	<tr>
-		<td>272</td>
-		<td>
-			<a href="https://github.com/dreamhunter2333">
-				<img src="https://avatars.githubusercontent.com/u/32295532?s=72&u=826e7cda860335b939445106f62e2d65425c8bed&v=4" width="24" alt="Avatar of dreamhunter2333"> dreamhunter2333
-			</a><br/>
-			Dream Hunter
-		</td>
-		<td>@awsl-project </td>
-		<td><a href="https://twitter.com/dreamhunter2333">dreamhunter2333</a></td>
-		<td>Tokyo</td>
-		<td>906</td>
-	</tr>
-	<tr>
-		<td>273</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/momeemt">
 				<img src="https://avatars.githubusercontent.com/u/43488453?s=72&u=848d6157db8ef3f8125768ed1bf34d869a67af10&v=4" width="24" alt="Avatar of momeemt"> momeemt
@@ -3654,7 +3680,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>905</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/franciscop">
 				<img src="https://avatars.githubusercontent.com/u/2801252?s=72&u=06a543086ee54676ad5c5eb69f881d0076040b3b&v=4" width="24" alt="Avatar of franciscop"> franciscop
@@ -3664,10 +3690,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fpresencia">fpresencia</a></td>
 		<td>Tokyo, Japan</td>
-		<td>895</td>
+		<td>900</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/miyakogi">
 				<img src="https://avatars.githubusercontent.com/u/3213998?s=72&u=dede01bf63c211cbba7e3d2b46669f0443ddad82&v=4" width="24" alt="Avatar of miyakogi"> miyakogi
@@ -3677,10 +3703,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>883</td>
+		<td>886</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/dvcrn">
+				<img src="https://avatars.githubusercontent.com/u/688326?s=72&u=f653e902b0e370f931eced8dc89cc09e7716b5ce&v=4" width="24" alt="Avatar of dvcrn"> dvcrn
+			</a><br/>
+			David
+		</td>
+		<td>@mercari, @saifuwallet, @microfnhq <br/></td>
+		<td><a href="https://twitter.com/dvcrn">dvcrn</a></td>
+		<td>Tokyo</td>
+		<td>879</td>
+	</tr>
+	<tr>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/rosylilly">
 				<img src="https://avatars.githubusercontent.com/u/29084?s=72&u=b64e1879d4499e189b13127c9f1379f1dd72da5e&v=4" width="24" alt="Avatar of rosylilly"> rosylilly
@@ -3693,7 +3732,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>874</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/lloydmeta">
 				<img src="https://avatars.githubusercontent.com/u/914805?s=72&v=4" width="24" alt="Avatar of lloydmeta"> lloydmeta
@@ -3706,7 +3745,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>873</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/uzulla">
 				<img src="https://avatars.githubusercontent.com/u/870716?s=72&u=8166e55e521fe6d8d418a387151442eb993d6b17&v=4" width="24" alt="Avatar of uzulla"> uzulla
@@ -3719,7 +3758,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>865</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/fukamachi">
 				<img src="https://avatars.githubusercontent.com/u/90570?s=72&u=a0e6d69c404ef0476c401259bf13890bc467c66f&v=4" width="24" alt="Avatar of fukamachi"> fukamachi
@@ -3732,7 +3771,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>864</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/tanaikech">
 				<img src="https://avatars.githubusercontent.com/u/20408540?s=72&u=5f9f0b469cf50165be37d9683038e890980d4eed&v=4" width="24" alt="Avatar of tanaikech"> tanaikech
@@ -3745,7 +3784,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>850</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/cordx56">
 				<img src="https://avatars.githubusercontent.com/u/23298744?s=72&u=7e0160d4d9284ef5a2b754d581f2bc60bfcaecc5&v=4" width="24" alt="Avatar of cordx56"> cordx56
@@ -3758,7 +3797,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>849</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/kaguya0107">
 				<img src="https://avatars.githubusercontent.com/u/215489722?s=72&u=6e9f77ebc1e6c5118cde66dd461cec094c923e66&v=4" width="24" alt="Avatar of kaguya0107"> kaguya0107
@@ -3771,7 +3810,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>846</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/miurla">
 				<img src="https://avatars.githubusercontent.com/u/3412179?s=72&u=6b7897666cc12c97243c3e07f0ec7a4d714e5e6c&v=4" width="24" alt="Avatar of miurla"> miurla
@@ -3781,23 +3820,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/miiura">miiura</a></td>
 		<td>Tokyo</td>
-		<td>840</td>
+		<td>843</td>
 	</tr>
 	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/dvcrn">
-				<img src="https://avatars.githubusercontent.com/u/688326?s=72&u=f653e902b0e370f931eced8dc89cc09e7716b5ce&v=4" width="24" alt="Avatar of dvcrn"> dvcrn
-			</a><br/>
-			David
-		</td>
-		<td>@mercari, @saifuwallet, @microfnhq <br/></td>
-		<td><a href="https://twitter.com/dvcrn">dvcrn</a></td>
-		<td>Tokyo</td>
-		<td>839</td>
-	</tr>
-	<tr>
-		<td>285</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/martinheidegger">
 				<img src="https://avatars.githubusercontent.com/u/914122?s=72&u=96843aa7a7d1f563826f0bad5455ca9d2d7c1a6a&v=4" width="24" alt="Avatar of martinheidegger"> martinheidegger
@@ -3807,23 +3833,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/leichtgewicht">leichtgewicht</a></td>
 		<td>Osaka, Japan</td>
-		<td>838</td>
+		<td>839</td>
 	</tr>
 	<tr>
-		<td>286</td>
-		<td>
-			<a href="https://github.com/faithandbrave">
-				<img src="https://avatars.githubusercontent.com/u/240038?s=72&u=10b88c50ab06d592b415513fe79e20dd7732dd5f&v=4" width="24" alt="Avatar of faithandbrave"> faithandbrave
-			</a><br/>
-			Akira Takahashi
-		</td>
-		<td>Preferred Networks, Inc. </td>
-		<td><a href="https://twitter.com/cpp_akira">cpp_akira</a></td>
-		<td>Japan</td>
-		<td>838</td>
-	</tr>
-	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/qnighy">
 				<img src="https://avatars.githubusercontent.com/u/41755?s=72&u=323bbfe70d753954cd9bea6a40052ec8be2ab0b2&v=4" width="24" alt="Avatar of qnighy"> qnighy
@@ -3836,7 +3849,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>837</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/reindex-ot">
 				<img src="https://avatars.githubusercontent.com/u/32851879?s=72&u=269ae5427e1af84078cdf69858f816f723d78bf1&v=4" width="24" alt="Avatar of reindex-ot"> reindex-ot
@@ -3847,19 +3860,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/ot_inc">ot_inc</a></td>
 		<td>Ibaraki-ken, Japan</td>
 		<td>829</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/moznion">
-				<img src="https://avatars.githubusercontent.com/u/1422834?s=72&v=4" width="24" alt="Avatar of moznion"> moznion
-			</a><br/>
-			moznion
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/moznion">moznion</a></td>
-		<td>Tokyo, Japan</td>
-		<td>826</td>
 	</tr>
 	<tr>
 		<td>290</td>
@@ -3885,7 +3885,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@react-native-commun </td>
 		<td><a href="https://twitter.com/natural_clar">natural_clar</a></td>
 		<td>Chiba, Japan</td>
-		<td>811</td>
+		<td>823</td>
 	</tr>
 	<tr>
 		<td>292</td>
@@ -3911,7 +3911,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@kong </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>787</td>
+		<td>789</td>
 	</tr>
 	<tr>
 		<td>294</td>
@@ -3942,25 +3942,25 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>296</td>
 		<td>
-			<a href="https://github.com/GalvinGao">
-				<img src="https://avatars.githubusercontent.com/u/12567059?s=72&u=9109564a578504815778fc2a8913f7af6a36b35e&v=4" width="24" alt="Avatar of GalvinGao"> GalvinGao
-			</a><br/>
-			GalvinGao
-		</td>
-		<td>Anywhere And Everywhere </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>770</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
 			<a href="https://github.com/xfoxfu">
 				<img src="https://avatars.githubusercontent.com/u/3616727?s=72&u=7f173467e83011b2121abffa11d2eeee621cd0d7&v=4" width="24" alt="Avatar of xfoxfu"> xfoxfu
 			</a><br/>
 			Yuze Fu
 		</td>
 		<td>@amzn </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>773</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/GalvinGao">
+				<img src="https://avatars.githubusercontent.com/u/12567059?s=72&u=9109564a578504815778fc2a8913f7af6a36b35e&v=4" width="24" alt="Avatar of GalvinGao"> GalvinGao
+			</a><br/>
+			GalvinGao
+		</td>
+		<td>Anywhere And Everywhere </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
 		<td>770</td>
@@ -4119,10 +4119,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yamahigashi">yamahigashi</a></td>
 		<td>Tokyo, Japan</td>
-		<td>712</td>
+		<td>713</td>
 	</tr>
 	<tr>
 		<td>310</td>
+		<td>
+			<a href="https://github.com/idrassi">
+				<img src="https://avatars.githubusercontent.com/u/4698669?s=72&u=b299c0fc6c31fbbee8cca3562bba00b6b0afe800&v=4" width="24" alt="Avatar of idrassi"> idrassi
+			</a><br/>
+			Mounir IDRASSI
+		</td>
+		<td>Amcrypto - Idrix </td>
+		<td><a href="https://twitter.com/idrassi">idrassi</a></td>
+		<td>Japan</td>
+		<td>713</td>
+	</tr>
+	<tr>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/shirou">
 				<img src="https://avatars.githubusercontent.com/u/177213?s=72&u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4" width="24" alt="Avatar of shirou"> shirou
@@ -4135,19 +4148,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>710</td>
 	</tr>
 	<tr>
-		<td>311</td>
-		<td>
-			<a href="https://github.com/idrassi">
-				<img src="https://avatars.githubusercontent.com/u/4698669?s=72&u=b299c0fc6c31fbbee8cca3562bba00b6b0afe800&v=4" width="24" alt="Avatar of idrassi"> idrassi
-			</a><br/>
-			Mounir IDRASSI
-		</td>
-		<td>Amcrypto - Idrix </td>
-		<td><a href="https://twitter.com/idrassi">idrassi</a></td>
-		<td>Japan</td>
-		<td>702</td>
-	</tr>
-	<tr>
 		<td>312</td>
 		<td>
 			<a href="https://github.com/k-takata">
@@ -4158,7 +4158,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/k_takata">k_takata</a></td>
 		<td>Tokyo, Japan</td>
-		<td>699</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>313</td>
@@ -4171,7 +4171,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/_mono">_mono</a></td>
 		<td>Tokyo, Japan</td>
-		<td>697</td>
+		<td>698</td>
 	</tr>
 	<tr>
 		<td>314</td>
@@ -4184,7 +4184,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Njupt </td>
 		<td>No Twitter Username</td>
 		<td>ANON TOKYO</td>
-		<td>696</td>
+		<td>697</td>
 	</tr>
 	<tr>
 		<td>315</td>
@@ -4197,7 +4197,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Tably, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>694</td>
+		<td>695</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -4293,6 +4293,32 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>323</td>
 		<td>
+			<a href="https://github.com/mapconcierge">
+				<img src="https://avatars.githubusercontent.com/u/416977?s=72&u=4ddf13867fbb9584a9ed54c6f6544903491d985d&v=4" width="24" alt="Avatar of mapconcierge"> mapconcierge
+			</a><br/>
+			Taichi FURUHASHI
+		</td>
+		<td>Mapconcierge </td>
+		<td><a href="https://twitter.com/mapconcierge">mapconcierge</a></td>
+		<td>Tokyo</td>
+		<td>632</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
+			<a href="https://github.com/karlcow">
+				<img src="https://avatars.githubusercontent.com/u/505230?s=72&u=229ea79bfe951340b1e1eab44c249c49c0b03e2d&v=4" width="24" alt="Avatar of karlcow"> karlcow
+			</a><br/>
+			Karl Dubost
+		</td>
+		<td>@apple </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>630</td>
+	</tr>
+	<tr>
+		<td>325</td>
+		<td>
 			<a href="https://github.com/akinomyoga">
 				<img src="https://avatars.githubusercontent.com/u/8982192?s=72&u=e0f98cf4d84f1fd916c37ad9a32533a196ed02b0&v=4" width="24" alt="Avatar of akinomyoga"> akinomyoga
 			</a><br/>
@@ -4304,7 +4330,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>630</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>326</td>
+		<td>
+			<a href="https://github.com/sugyan">
+				<img src="https://avatars.githubusercontent.com/u/80381?s=72&v=4" width="24" alt="Avatar of sugyan"> sugyan
+			</a><br/>
+			Yoshihiro Sugi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sugyan">sugyan</a></td>
+		<td>Kyoto, Japan</td>
+		<td>627</td>
+	</tr>
+	<tr>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/itchyny">
 				<img src="https://avatars.githubusercontent.com/u/375258?s=72&u=a8226606854e9c6effbb3a867396a93390eaa218&v=4" width="24" alt="Avatar of itchyny"> itchyny
@@ -4314,23 +4353,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Cybozu, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Kyoto, Japan</td>
-		<td>623</td>
+		<td>624</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>328</td>
 		<td>
-			<a href="https://github.com/karlcow">
-				<img src="https://avatars.githubusercontent.com/u/505230?s=72&u=229ea79bfe951340b1e1eab44c249c49c0b03e2d&v=4" width="24" alt="Avatar of karlcow"> karlcow
+			<a href="https://github.com/GOROman">
+				<img src="https://avatars.githubusercontent.com/u/159089?s=72&v=4" width="24" alt="Avatar of GOROman"> GOROman
 			</a><br/>
-			Karl Dubost
+			GOROman
 		</td>
-		<td>@apple </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>623</td>
+		<td>無職 </td>
+		<td><a href="https://twitter.com/GOROman">GOROman</a></td>
+		<td>Japan</td>
+		<td>619</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/baku89">
 				<img src="https://avatars.githubusercontent.com/u/2124392?s=72&u=ec9a114f466d3bc5e85390ea4e33f3e940fc5b0e&v=4" width="24" alt="Avatar of baku89"> baku89
@@ -4343,7 +4382,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>618</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/uhooi">
 				<img src="https://avatars.githubusercontent.com/u/21194714?s=72&u=6f81f637665f2badb0973eba08b968d2d50a1621&v=4" width="24" alt="Avatar of uhooi"> uhooi
@@ -4356,7 +4395,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>618</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>331</td>
+		<td>
+			<a href="https://github.com/giginet">
+				<img src="https://avatars.githubusercontent.com/u/147051?s=72&u=c8a8e40c507c11f7c4c678c570623212ceb06b49&v=4" width="24" alt="Avatar of giginet"> giginet
+			</a><br/>
+			Kohki Miki
+		</td>
+		<td>Ly Corp. </td>
+		<td><a href="https://twitter.com/giginet">giginet</a></td>
+		<td>Tokyo, Japan</td>
+		<td>617</td>
+	</tr>
+	<tr>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/matanki-saito">
 				<img src="https://avatars.githubusercontent.com/u/35730970?s=72&u=a35d62c3bdacfe2987fc7516f55d4426ef697b66&v=4" width="24" alt="Avatar of matanki-saito"> matanki-saito
@@ -4366,49 +4418,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/matanki_saito">matanki_saito</a></td>
 		<td>Japan Kanto-</td>
+		<td>617</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/lightsound">
+				<img src="https://avatars.githubusercontent.com/u/8220973?s=72&u=1f20a35674da9f6c948b5edffd9134b938d17f50&v=4" width="24" alt="Avatar of lightsound"> lightsound
+			</a><br/>
+			しまぶー
+		</td>
+		<td>Software Engineer </td>
+		<td><a href="https://twitter.com/shimabu_it">shimabu_it</a></td>
+		<td>Tokyo - Japan</td>
 		<td>615</td>
 	</tr>
 	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/sugyan">
-				<img src="https://avatars.githubusercontent.com/u/80381?s=72&v=4" width="24" alt="Avatar of sugyan"> sugyan
-			</a><br/>
-			Yoshihiro Sugi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sugyan">sugyan</a></td>
-		<td>Kyoto, Japan</td>
-		<td>614</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/GOROman">
-				<img src="https://avatars.githubusercontent.com/u/159089?s=72&v=4" width="24" alt="Avatar of GOROman"> GOROman
-			</a><br/>
-			GOROman
-		</td>
-		<td>無職 </td>
-		<td><a href="https://twitter.com/GOROman">GOROman</a></td>
-		<td>Japan</td>
-		<td>614</td>
-	</tr>
-	<tr>
-		<td>331</td>
-		<td>
-			<a href="https://github.com/mapconcierge">
-				<img src="https://avatars.githubusercontent.com/u/416977?s=72&u=4ddf13867fbb9584a9ed54c6f6544903491d985d&v=4" width="24" alt="Avatar of mapconcierge"> mapconcierge
-			</a><br/>
-			Taichi FURUHASHI
-		</td>
-		<td>Mapconcierge </td>
-		<td><a href="https://twitter.com/mapconcierge">mapconcierge</a></td>
-		<td>Tokyo</td>
-		<td>614</td>
-	</tr>
-	<tr>
-		<td>332</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/hoshinolina">
 				<img src="https://avatars.githubusercontent.com/u/102031928?s=72&u=11a4b4746de44bfe90a5b6812decf829fe472597&v=4" width="24" alt="Avatar of hoshinolina"> hoshinolina
@@ -4421,7 +4447,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>607</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/Sadikn7i">
 				<img src="https://avatars.githubusercontent.com/u/184187653?s=72&u=6ef9f21c011617382b1830c8a75f38f291be9d70&v=4" width="24" alt="Avatar of Sadikn7i"> Sadikn7i
@@ -4434,20 +4460,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>603</td>
 	</tr>
 	<tr>
-		<td>334</td>
-		<td>
-			<a href="https://github.com/lightsound">
-				<img src="https://avatars.githubusercontent.com/u/8220973?s=72&u=1f20a35674da9f6c948b5edffd9134b938d17f50&v=4" width="24" alt="Avatar of lightsound"> lightsound
-			</a><br/>
-			しまぶー
-		</td>
-		<td>Software Engineer </td>
-		<td><a href="https://twitter.com/shimabu_it">shimabu_it</a></td>
-		<td>Tokyo - Japan</td>
-		<td>600</td>
-	</tr>
-	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/nicolas-raoul">
 				<img src="https://avatars.githubusercontent.com/u/99590?s=72&v=4" width="24" alt="Avatar of nicolas-raoul"> nicolas-raoul
@@ -4457,10 +4470,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>599</td>
+		<td>602</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/fuyu77">
 				<img src="https://avatars.githubusercontent.com/u/19484918?s=72&u=3caaae638324d97ed65b8d92739255b4d6891c8f&v=4" width="24" alt="Avatar of fuyu77"> fuyu77
@@ -4473,7 +4486,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>598</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
+		<td>
+			<a href="https://github.com/4ra1n">
+				<img src="https://avatars.githubusercontent.com/u/34726933?s=72&u=8c53ba2506a6b118d27858716067a42c6ae0de42&v=4" width="24" alt="Avatar of 4ra1n"> 4ra1n
+			</a><br/>
+			4ra1n
+		</td>
+		<td>Independent Security Researcher </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>595</td>
+	</tr>
+	<tr>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/AchrafReyani">
 				<img src="https://avatars.githubusercontent.com/u/43996450?s=72&u=9c5fefbfb1674e2a2935f060b4d6cd6974a14b12&v=4" width="24" alt="Avatar of AchrafReyani"> AchrafReyani
@@ -4486,7 +4512,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>591</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/ikwzm">
 				<img src="https://avatars.githubusercontent.com/u/1528286?s=72&u=898d7f22b7669dc957e1ecda49506be7a27cbda1&v=4" width="24" alt="Avatar of ikwzm"> ikwzm
@@ -4499,20 +4525,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>585</td>
 	</tr>
 	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/4ra1n">
-				<img src="https://avatars.githubusercontent.com/u/34726933?s=72&u=8c53ba2506a6b118d27858716067a42c6ae0de42&v=4" width="24" alt="Avatar of 4ra1n"> 4ra1n
-			</a><br/>
-			4ra1n
-		</td>
-		<td>Independent Security Researcher </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>581</td>
-	</tr>
-	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/tatsuya6502">
 				<img src="https://avatars.githubusercontent.com/u/159403?s=72&v=4" width="24" alt="Avatar of tatsuya6502"> tatsuya6502
@@ -4525,7 +4538,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>581</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/gfngfn">
 				<img src="https://avatars.githubusercontent.com/u/6876129?s=72&u=d40bea2fbd1753b5348fe3146d611d663bccf04a&v=4" width="24" alt="Avatar of gfngfn"> gfngfn
@@ -4538,7 +4551,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>576</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/edom18">
 				<img src="https://avatars.githubusercontent.com/u/208165?s=72&u=bd5ec6cd38ec02ae40546ae4598707fd683a24af&v=4" width="24" alt="Avatar of edom18"> edom18
@@ -4548,10 +4561,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Meson </td>
 		<td><a href="https://twitter.com/edo_m18">edo_m18</a></td>
 		<td>Tokyo</td>
-		<td>573</td>
+		<td>574</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/Misaka13514">
 				<img src="https://avatars.githubusercontent.com/u/54669781?s=72&u=f4a537b187934043022fbc202e4f7a41936fe351&v=4" width="24" alt="Avatar of Misaka13514"> Misaka13514
@@ -4564,7 +4577,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>572</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/sugi-cho">
 				<img src="https://avatars.githubusercontent.com/u/346540?s=72&u=c48734adf4466ce50c6a04b6d0cd578c2af2fd6a&v=4" width="24" alt="Avatar of sugi-cho"> sugi-cho
@@ -4577,7 +4590,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>571</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/pafuhana1213">
+				<img src="https://avatars.githubusercontent.com/u/8957600?s=72&u=211205a35c4706fecde7f2e6be1defb410aa5789&v=4" width="24" alt="Avatar of pafuhana1213"> pafuhana1213
+			</a><br/>
+			pafuhana1213
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/pafuhana1213">pafuhana1213</a></td>
+		<td>Japan</td>
+		<td>564</td>
+	</tr>
+	<tr>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/NalaGinrut">
 				<img src="https://avatars.githubusercontent.com/u/19734?s=72&v=4" width="24" alt="Avatar of NalaGinrut"> NalaGinrut
@@ -4590,7 +4616,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>564</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/archseer">
 				<img src="https://avatars.githubusercontent.com/u/1372918?s=72&u=3cdf0e9a84945967b3545727092c49168c9467e7&v=4" width="24" alt="Avatar of archseer"> archseer
@@ -4603,20 +4629,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>562</td>
 	</tr>
 	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/giginet">
-				<img src="https://avatars.githubusercontent.com/u/147051?s=72&u=c8a8e40c507c11f7c4c678c570623212ceb06b49&v=4" width="24" alt="Avatar of giginet"> giginet
-			</a><br/>
-			Kohki Miki
-		</td>
-		<td>Ly Corp. </td>
-		<td><a href="https://twitter.com/giginet">giginet</a></td>
-		<td>Tokyo, Japan</td>
-		<td>562</td>
-	</tr>
-	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/mzyy94">
 				<img src="https://avatars.githubusercontent.com/u/2971112?s=72&u=060081ea67a569c8205ef2ad6ca27174a8bcfcd8&v=4" width="24" alt="Avatar of mzyy94"> mzyy94
@@ -4626,10 +4639,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>557</td>
+		<td>559</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/idawnlight">
 				<img src="https://avatars.githubusercontent.com/u/18070833?s=72&u=e1914440e8d7697e9892e93e607ad26ef18c61b5&v=4" width="24" alt="Avatar of idawnlight"> idawnlight
@@ -4639,10 +4652,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan, Earth, Solar system</td>
-		<td>556</td>
+		<td>557</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/omasanori">
 				<img src="https://avatars.githubusercontent.com/u/167209?s=72&v=4" width="24" alt="Avatar of omasanori"> omasanori
@@ -4655,7 +4668,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>554</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/yoshiko-pg">
 				<img src="https://avatars.githubusercontent.com/u/6822923?s=72&u=5d3c297c059726207fd0217911875ae186af4ab2&v=4" width="24" alt="Avatar of yoshiko-pg"> yoshiko-pg
@@ -4668,19 +4681,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>554</td>
 	</tr>
 	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/pafuhana1213">
-				<img src="https://avatars.githubusercontent.com/u/8957600?s=72&u=211205a35c4706fecde7f2e6be1defb410aa5789&v=4" width="24" alt="Avatar of pafuhana1213"> pafuhana1213
-			</a><br/>
-			pafuhana1213
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pafuhana1213">pafuhana1213</a></td>
-		<td>Japan</td>
-		<td>551</td>
-	</tr>
-	<tr>
 		<td>353</td>
 		<td>
 			<a href="https://github.com/everpeace">
@@ -4691,7 +4691,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Ly Corporation </td>
 		<td><a href="https://twitter.com/everpeace">everpeace</a></td>
 		<td>Tokyo, JAPAN</td>
-		<td>551</td>
+		<td>552</td>
 	</tr>
 	<tr>
 		<td>354</td>
@@ -4730,7 +4730,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Recruit Co. Ltd, Nijibox<br/>Co.<br/>Ltd<br/></td>
 		<td><a href="https://twitter.com/Quramy">Quramy</a></td>
 		<td>Tokyo, Japan</td>
-		<td>542</td>
+		<td>543</td>
 	</tr>
 	<tr>
 		<td>357</td>
@@ -4756,7 +4756,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>537</td>
+		<td>538</td>
 	</tr>
 	<tr>
 		<td>359</td>
@@ -4808,7 +4808,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/OviSource">OviSource</a></td>
 		<td>Tsukuba, Japan</td>
-		<td>527</td>
+		<td>529</td>
 	</tr>
 	<tr>
 		<td>363</td>
@@ -4886,7 +4886,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Yoppa.org </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>495</td>
+		<td>496</td>
 	</tr>
 	<tr>
 		<td>369</td>
@@ -4930,15 +4930,15 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>372</td>
 		<td>
-			<a href="https://github.com/mrwhite4939">
-				<img src="https://avatars.githubusercontent.com/u/231139847?s=72&u=b5000f689e6042ebf6d0184078ab4ef002a9db24&v=4" width="24" alt="Avatar of mrwhite4939"> mrwhite4939
+			<a href="https://github.com/Reputeless">
+				<img src="https://avatars.githubusercontent.com/u/3108136?s=72&v=4" width="24" alt="Avatar of Reputeless"> Reputeless
 			</a><br/>
-			MrWhite
+			Ryo Suzuki
 		</td>
-		<td>Trend Micro — トレンドマイクロ<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan — 東京都, 日本</td>
-		<td>480</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Reputeless">Reputeless</a></td>
+		<td>Japan</td>
+		<td>488</td>
 	</tr>
 	<tr>
 		<td>373</td>
@@ -4951,20 +4951,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>None </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>480</td>
+		<td>481</td>
 	</tr>
 	<tr>
 		<td>374</td>
 		<td>
-			<a href="https://github.com/Reputeless">
-				<img src="https://avatars.githubusercontent.com/u/3108136?s=72&v=4" width="24" alt="Avatar of Reputeless"> Reputeless
+			<a href="https://github.com/mrwhite4939">
+				<img src="https://avatars.githubusercontent.com/u/231139847?s=72&u=b5000f689e6042ebf6d0184078ab4ef002a9db24&v=4" width="24" alt="Avatar of mrwhite4939"> mrwhite4939
 			</a><br/>
-			Ryo Suzuki
+			MrWhite
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Reputeless">Reputeless</a></td>
-		<td>Japan</td>
-		<td>479</td>
+		<td>Trend Micro — トレンドマイクロ<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan — 東京都, 日本</td>
+		<td>480</td>
 	</tr>
 	<tr>
 		<td>375</td>
@@ -5021,6 +5021,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>379</td>
 		<td>
+			<a href="https://github.com/at-wat">
+				<img src="https://avatars.githubusercontent.com/u/8390204?s=72&u=ab11a72e9ab80e68ac5481dc7b7f8610808a5af2&v=4" width="24" alt="Avatar of at-wat"> at-wat
+			</a><br/>
+			Atsushi Watanabe
+		</td>
+		<td>Seqsense, Inc. (@seqsense) </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>467</td>
+	</tr>
+	<tr>
+		<td>380</td>
+		<td>
 			<a href="https://github.com/r7kamura">
 				<img src="https://avatars.githubusercontent.com/u/111689?s=72&u=64ab12304da52634277b04537b8c4260affa2b4e&v=4" width="24" alt="Avatar of r7kamura"> r7kamura
 			</a><br/>
@@ -5032,7 +5045,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>465</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/nobnak">
 				<img src="https://avatars.githubusercontent.com/u/813514?s=72&u=ed22bcf1e0e4596dc13befb3a6c99294966c3d22&v=4" width="24" alt="Avatar of nobnak"> nobnak
@@ -5045,7 +5058,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>464</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/Kazuhito00">
 				<img src="https://avatars.githubusercontent.com/u/37477845?s=72&u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" width="24" alt="Avatar of Kazuhito00"> Kazuhito00
@@ -5058,7 +5071,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>463</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/okuramasafumi">
 				<img src="https://avatars.githubusercontent.com/u/1012014?s=72&u=5e16fe6df80dd199a02e3a5b9a5d225666239799&v=4" width="24" alt="Avatar of okuramasafumi"> okuramasafumi
@@ -5068,23 +5081,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/okuramasafumi">okuramasafumi</a></td>
 		<td>Tokyo, Japan</td>
-		<td>461</td>
-	</tr>
-	<tr>
-		<td>383</td>
-		<td>
-			<a href="https://github.com/at-wat">
-				<img src="https://avatars.githubusercontent.com/u/8390204?s=72&u=ab11a72e9ab80e68ac5481dc7b7f8610808a5af2&v=4" width="24" alt="Avatar of at-wat"> at-wat
-			</a><br/>
-			Atsushi Watanabe
-		</td>
-		<td>Seqsense, Inc. (@seqsense) </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>460</td>
+		<td>462</td>
 	</tr>
 	<tr>
 		<td>384</td>
+		<td>
+			<a href="https://github.com/Ohara124c41">
+				<img src="https://avatars.githubusercontent.com/u/28205732?s=72&u=94529d9964e647535e4131ad4c2e14888488a383&v=4" width="24" alt="Avatar of Ohara124c41"> Ohara124c41
+			</a><br/>
+			Christopher Aaron O'Hara
+		</td>
+		<td>@dailab, @udacity </td>
+		<td>No Twitter Username</td>
+		<td> Tokyo ⮀ Los Angeles ⮀ Berlin</td>
+		<td>458</td>
+	</tr>
+	<tr>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/gera2ld">
 				<img src="https://avatars.githubusercontent.com/u/3139113?s=72&v=4" width="24" alt="Avatar of gera2ld"> gera2ld
@@ -5097,7 +5110,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>457</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/kissy24">
 				<img src="https://avatars.githubusercontent.com/u/12809711?s=72&u=c1cbeba3c70237f188beabca38e01eff6007c9d1&v=4" width="24" alt="Avatar of kissy24"> kissy24
@@ -5110,7 +5123,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>456</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/ogaclejapan">
 				<img src="https://avatars.githubusercontent.com/u/1496485?s=72&u=5555ecc0a6b13ffe62b649342c24609da3330ce5&v=4" width="24" alt="Avatar of ogaclejapan"> ogaclejapan
@@ -5123,7 +5136,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>453</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/suin">
 				<img src="https://avatars.githubusercontent.com/u/855338?s=72&v=4" width="24" alt="Avatar of suin"> suin
@@ -5136,7 +5149,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>453</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/Him188">
 				<img src="https://avatars.githubusercontent.com/u/12100985?s=72&u=ebbca1914daddcb677d89553914ac4c3b81a9e07&v=4" width="24" alt="Avatar of Him188"> Him188
@@ -5149,7 +5162,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>450</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/yhara">
 				<img src="https://avatars.githubusercontent.com/u/12285?s=72&v=4" width="24" alt="Avatar of yhara"> yhara
@@ -5160,19 +5173,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/yhara">yhara</a></td>
 		<td>Matsue, JAPAN</td>
 		<td>450</td>
-	</tr>
-	<tr>
-		<td>390</td>
-		<td>
-			<a href="https://github.com/Ohara124c41">
-				<img src="https://avatars.githubusercontent.com/u/28205732?s=72&u=94529d9964e647535e4131ad4c2e14888488a383&v=4" width="24" alt="Avatar of Ohara124c41"> Ohara124c41
-			</a><br/>
-			Christopher Aaron O'Hara
-		</td>
-		<td>@dailab, @udacity </td>
-		<td>No Twitter Username</td>
-		<td> Tokyo ⮀ Los Angeles ⮀ Berlin</td>
-		<td>448</td>
 	</tr>
 	<tr>
 		<td>391</td>
@@ -5211,7 +5211,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Mobile Application Engineer </td>
 		<td><a href="https://twitter.com/fumiyasac">fumiyasac</a></td>
 		<td>Tokyo(Otsuka)</td>
-		<td>440</td>
+		<td>441</td>
 	</tr>
 	<tr>
 		<td>394</td>
@@ -5242,19 +5242,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>396</td>
 		<td>
-			<a href="https://github.com/junkiyoshi">
-				<img src="https://avatars.githubusercontent.com/u/16998543?s=72&u=ac6a8d5e2e4067aa164ddeef8854402ca644764c&v=4" width="24" alt="Avatar of junkiyoshi"> junkiyoshi
-			</a><br/>
-			NAKAUCHI Kiyoshi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/junkiyoshi">junkiyoshi</a></td>
-		<td>Japan</td>
-		<td>432</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
 			<a href="https://github.com/hnakamur">
 				<img src="https://avatars.githubusercontent.com/u/19299?s=72&u=4cbfed13077c3afd639f90eafd7793aec12e5533&v=4" width="24" alt="Avatar of hnakamur"> hnakamur
 			</a><br/>
@@ -5263,7 +5250,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Sakura Internet Inc. </td>
 		<td><a href="https://twitter.com/hnakamur2">hnakamur2</a></td>
 		<td>Osaka, Japan</td>
-		<td>432</td>
+		<td>435</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/junkiyoshi">
+				<img src="https://avatars.githubusercontent.com/u/16998543?s=72&u=ac6a8d5e2e4067aa164ddeef8854402ca644764c&v=4" width="24" alt="Avatar of junkiyoshi"> junkiyoshi
+			</a><br/>
+			NAKAUCHI Kiyoshi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/junkiyoshi">junkiyoshi</a></td>
+		<td>Japan</td>
+		<td>433</td>
 	</tr>
 	<tr>
 		<td>398</td>
@@ -5294,6 +5294,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>400</td>
 		<td>
+			<a href="https://github.com/nuta">
+				<img src="https://avatars.githubusercontent.com/u/5053714?s=72&u=c855dbf916188578cecedf8b81497af1d64bf6b1&v=4" width="24" alt="Avatar of nuta"> nuta
+			</a><br/>
+			Seiya Nuta
+		</td>
+		<td>@vercel </td>
+		<td><a href="https://twitter.com/seiyanuta">seiyanuta</a></td>
+		<td>Tokyo, Japan</td>
+		<td>421</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
 			<a href="https://github.com/hand-dot">
 				<img src="https://avatars.githubusercontent.com/u/24843808?s=72&u=5159394d614f7c0d8019513fd351eaa991e7facd&v=4" width="24" alt="Avatar of hand-dot"> hand-dot
 			</a><br/>
@@ -5305,7 +5318,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>420</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/pine">
 				<img src="https://avatars.githubusercontent.com/u/5249050?s=72&u=05436387322bf527cbaede896b7c383e62910764&v=4" width="24" alt="Avatar of pine"> pine
@@ -5318,7 +5331,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>418</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/the0cp">
 				<img src="https://avatars.githubusercontent.com/u/63190431?s=72&u=432664d29cbcd73e7fb8fcfc9cb6abe8716e0340&v=4" width="24" alt="Avatar of the0cp"> the0cp
@@ -5331,7 +5344,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>415</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/fosskers">
 				<img src="https://avatars.githubusercontent.com/u/229679?s=72&u=3d7b0e8e29803bc3c969c89f92f66dec0fc1b606&v=4" width="24" alt="Avatar of fosskers"> fosskers
@@ -5344,7 +5357,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>414</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/koute">
 				<img src="https://avatars.githubusercontent.com/u/246574?s=72&v=4" width="24" alt="Avatar of koute"> koute
@@ -5354,10 +5367,23 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@paritytech </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>410</td>
+		<td>411</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
+		<td>
+			<a href="https://github.com/cbracken">
+				<img src="https://avatars.githubusercontent.com/u/351029?s=72&v=4" width="24" alt="Avatar of cbracken"> cbracken
+			</a><br/>
+			Chris Bracken
+		</td>
+		<td>@flutter @google  </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>408</td>
+	</tr>
+	<tr>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/nobuyuki83">
 				<img src="https://avatars.githubusercontent.com/u/40525402?s=72&u=9abbadf7a1ed10b641a2ceaecd06662f520232db&v=4" width="24" alt="Avatar of nobuyuki83"> nobuyuki83
@@ -5368,32 +5394,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
 		<td>408</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/nuta">
-				<img src="https://avatars.githubusercontent.com/u/5053714?s=72&u=c855dbf916188578cecedf8b81497af1d64bf6b1&v=4" width="24" alt="Avatar of nuta"> nuta
-			</a><br/>
-			Seiya Nuta
-		</td>
-		<td>@vercel </td>
-		<td><a href="https://twitter.com/seiyanuta">seiyanuta</a></td>
-		<td>Tokyo, Japan</td>
-		<td>407</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/cbracken">
-				<img src="https://avatars.githubusercontent.com/u/351029?s=72&v=4" width="24" alt="Avatar of cbracken"> cbracken
-			</a><br/>
-			Chris Bracken
-		</td>
-		<td>@flutter @google  </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>404</td>
 	</tr>
 	<tr>
 		<td>408</td>
@@ -5424,6 +5424,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>410</td>
 		<td>
+			<a href="https://github.com/fukayatsu">
+				<img src="https://avatars.githubusercontent.com/u/1041857?s=72&v=4" width="24" alt="Avatar of fukayatsu"> fukayatsu
+			</a><br/>
+			Atsuo Fukaya
+		</td>
+		<td>Esa Llc </td>
+		<td><a href="https://twitter.com/fukayatsu">fukayatsu</a></td>
+		<td>Tokyo, Japan</td>
+		<td>387</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
 			<a href="https://github.com/IloveNooodles">
 				<img src="https://avatars.githubusercontent.com/u/63847012?s=72&u=0ac964d584e8752370aa7f4727d1f11e23425ab4&v=4" width="24" alt="Avatar of IloveNooodles"> IloveNooodles
 			</a><br/>
@@ -5435,20 +5448,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>385</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
-			<a href="https://github.com/fukayatsu">
-				<img src="https://avatars.githubusercontent.com/u/1041857?s=72&v=4" width="24" alt="Avatar of fukayatsu"> fukayatsu
+			<a href="https://github.com/hamukazu">
+				<img src="https://avatars.githubusercontent.com/u/981036?s=72&u=a1edb07991369030f1f2b6f03d76f06385bec0bd&v=4" width="24" alt="Avatar of hamukazu"> hamukazu
 			</a><br/>
-			Atsuo Fukaya
+			Kimikazu Kato
 		</td>
-		<td>Esa Llc </td>
-		<td><a href="https://twitter.com/fukayatsu">fukayatsu</a></td>
-		<td>Tokyo, Japan</td>
-		<td>384</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>383</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/miquelcampos">
 				<img src="https://avatars.githubusercontent.com/u/1050212?s=72&v=4" width="24" alt="Avatar of miquelcampos"> miquelcampos
@@ -5459,19 +5472,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/mGear_Framework">mGear_Framework</a></td>
 		<td>Tokyo</td>
 		<td>383</td>
-	</tr>
-	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/hamukazu">
-				<img src="https://avatars.githubusercontent.com/u/981036?s=72&u=a1edb07991369030f1f2b6f03d76f06385bec0bd&v=4" width="24" alt="Avatar of hamukazu"> hamukazu
-			</a><br/>
-			Kimikazu Kato
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>382</td>
 	</tr>
 	<tr>
 		<td>414</td>
@@ -5523,7 +5523,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Hennge, K.k. (hde, Inc.)<br/></td>
 		<td><a href="https://twitter.com/freedom_holicx">freedom_holicx</a></td>
 		<td>Japan, Indonesia</td>
-		<td>367</td>
+		<td>368</td>
 	</tr>
 	<tr>
 		<td>418</td>
@@ -5536,7 +5536,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@recruit-tech  </td>
 		<td>No Twitter Username</td>
 		<td> Tokyo, Japan</td>
-		<td>363</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>419</td>
@@ -5562,7 +5562,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/forehalo">forehalo</a></td>
 		<td>Tokyo</td>
-		<td>357</td>
+		<td>358</td>
 	</tr>
 	<tr>
 		<td>421</td>
@@ -5593,6 +5593,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>423</td>
 		<td>
+			<a href="https://github.com/hez2010">
+				<img src="https://avatars.githubusercontent.com/u/14960345?s=72&u=18ab26be58504b0db2bc82a7ed8c698d2c6824de&v=4" width="24" alt="Avatar of hez2010"> hez2010
+			</a><br/>
+			Steve
+		</td>
+		<td>Game Developer </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>351</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
 			<a href="https://github.com/Tiryoh">
 				<img src="https://avatars.githubusercontent.com/u/3256629?s=72&v=4" width="24" alt="Avatar of Tiryoh"> Tiryoh
 			</a><br/>
@@ -5604,7 +5617,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>351</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/onk">
 				<img src="https://avatars.githubusercontent.com/u/203046?s=72&v=4" width="24" alt="Avatar of onk"> onk
@@ -5617,7 +5630,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>347</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/yugui">
 				<img src="https://avatars.githubusercontent.com/u/8161?s=72&u=8effa02c2c9ba604e8aa86e3183623a5afe22285&v=4" width="24" alt="Avatar of yugui"> yugui
@@ -5630,7 +5643,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>346</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/yuichiroharai">
 				<img src="https://avatars.githubusercontent.com/u/5202790?s=72&v=4" width="24" alt="Avatar of yuichiroharai"> yuichiroharai
@@ -5643,19 +5656,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>340</td>
 	</tr>
 	<tr>
-		<td>427</td>
-		<td>
-			<a href="https://github.com/hez2010">
-				<img src="https://avatars.githubusercontent.com/u/14960345?s=72&u=18ab26be58504b0db2bc82a7ed8c698d2c6824de&v=4" width="24" alt="Avatar of hez2010"> hez2010
-			</a><br/>
-			Steve
-		</td>
-		<td>Game Developer </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>339</td>
-	</tr>
-	<tr>
 		<td>428</td>
 		<td>
 			<a href="https://github.com/odashi">
@@ -5666,7 +5666,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@naist-nlp </td>
 		<td><a href="https://twitter.com/odashi_t">odashi_t</a></td>
 		<td>Tokyo, Japan</td>
-		<td>337</td>
+		<td>339</td>
 	</tr>
 	<tr>
 		<td>429</td>
@@ -5684,6 +5684,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>430</td>
 		<td>
+			<a href="https://github.com/nagix">
+				<img src="https://avatars.githubusercontent.com/u/723188?s=72&v=4" width="24" alt="Avatar of nagix"> nagix
+			</a><br/>
+			Akihiko Kusanagi
+		</td>
+		<td>Postman </td>
+		<td><a href="https://twitter.com/nagix">nagix</a></td>
+		<td>Tokyo</td>
+		<td>329</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
 			<a href="https://github.com/zouyx">
 				<img src="https://avatars.githubusercontent.com/u/3828072?s=72&u=8b11868dfb56f3a301e7ab56ae0dd55287e9f58b&v=4" width="24" alt="Avatar of zouyx"> zouyx
 			</a><br/>
@@ -5695,20 +5708,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>329</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>432</td>
 		<td>
-			<a href="https://github.com/nagix">
-				<img src="https://avatars.githubusercontent.com/u/723188?s=72&v=4" width="24" alt="Avatar of nagix"> nagix
+			<a href="https://github.com/JasonkayZK">
+				<img src="https://avatars.githubusercontent.com/u/40811521?s=72&u=58ac6a615b5bd3e201c96438ade72296abc52c0c&v=4" width="24" alt="Avatar of JasonkayZK"> JasonkayZK
 			</a><br/>
-			Akihiko Kusanagi
+			Jasonkay
 		</td>
-		<td>Postman </td>
-		<td><a href="https://twitter.com/nagix">nagix</a></td>
-		<td>Tokyo</td>
-		<td>327</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Jasonkay_ZK">Jasonkay_ZK</a></td>
+		<td>Japan, Tokyo</td>
+		<td>325</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/shokai">
 				<img src="https://avatars.githubusercontent.com/u/34204?s=72&u=8bec96595ac613e2936155cc9764fdf60ca766a2&v=4" width="24" alt="Avatar of shokai"> shokai
@@ -5719,19 +5732,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/shokai">shokai</a></td>
 		<td>Shinagawa, Japan</td>
 		<td>324</td>
-	</tr>
-	<tr>
-		<td>433</td>
-		<td>
-			<a href="https://github.com/JasonkayZK">
-				<img src="https://avatars.githubusercontent.com/u/40811521?s=72&u=58ac6a615b5bd3e201c96438ade72296abc52c0c&v=4" width="24" alt="Avatar of JasonkayZK"> JasonkayZK
-			</a><br/>
-			Jasonkay
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Jasonkay_ZK">Jasonkay_ZK</a></td>
-		<td>Japan, Tokyo</td>
-		<td>323</td>
 	</tr>
 	<tr>
 		<td>434</td>
@@ -5762,6 +5762,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>436</td>
 		<td>
+			<a href="https://github.com/yanex">
+				<img src="https://avatars.githubusercontent.com/u/95996?s=72&u=08c0348d443b965b323dfa6c22353d03a8d50e85&v=4" width="24" alt="Avatar of yanex"> yanex
+			</a><br/>
+			Yan Zhulanow
+		</td>
+		<td>Jetbrains </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>321</td>
+	</tr>
+	<tr>
+		<td>437</td>
+		<td>
 			<a href="https://github.com/yuk1ty">
 				<img src="https://avatars.githubusercontent.com/u/24487281?s=72&u=1155b7d0cd854d4f60ecd6a69a74482315ff288e&v=4" width="24" alt="Avatar of yuk1ty"> yuk1ty
 			</a><br/>
@@ -5773,7 +5786,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>320</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/breezewish">
 				<img src="https://avatars.githubusercontent.com/u/1916485?s=72&u=abc5b739322780fa9c21da177c2404cf3072a683&v=4" width="24" alt="Avatar of breezewish"> breezewish
@@ -5786,7 +5799,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>318</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/taku910">
 				<img src="https://avatars.githubusercontent.com/u/11470708?s=72&u=b1482bb1257af844538259c40aab9423a1f91803&v=4" width="24" alt="Avatar of taku910"> taku910
@@ -5797,19 +5810,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
 		<td>318</td>
-	</tr>
-	<tr>
-		<td>439</td>
-		<td>
-			<a href="https://github.com/yanex">
-				<img src="https://avatars.githubusercontent.com/u/95996?s=72&u=08c0348d443b965b323dfa6c22353d03a8d50e85&v=4" width="24" alt="Avatar of yanex"> yanex
-			</a><br/>
-			Yan Zhulanow
-		</td>
-		<td>Jetbrains </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>317</td>
 	</tr>
 	<tr>
 		<td>440</td>
@@ -5944,6 +5944,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>450</td>
 		<td>
+			<a href="https://github.com/fulmicoton">
+				<img src="https://avatars.githubusercontent.com/u/1021506?s=72&u=17cab71613724f87fb09d756a7c0c2a117df0fd5&v=4" width="24" alt="Avatar of fulmicoton"> fulmicoton
+			</a><br/>
+			Paul Masurel
+		</td>
+		<td>@tantivy-search  </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>293</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
 			<a href="https://github.com/gedeagas">
 				<img src="https://avatars.githubusercontent.com/u/8868908?s=72&u=0a20f51bcb34eb8237ed38fce3af68b77973e79e&v=4" width="24" alt="Avatar of gedeagas"> gedeagas
 			</a><br/>
@@ -5955,7 +5968,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>293</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/methane">
 				<img src="https://avatars.githubusercontent.com/u/199592?s=72&v=4" width="24" alt="Avatar of methane"> methane
@@ -5965,20 +5978,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Klab Inc, </td>
 		<td><a href="https://twitter.com/methane">methane</a></td>
 		<td>Japan</td>
-		<td>288</td>
-	</tr>
-	<tr>
-		<td>452</td>
-		<td>
-			<a href="https://github.com/fulmicoton">
-				<img src="https://avatars.githubusercontent.com/u/1021506?s=72&u=17cab71613724f87fb09d756a7c0c2a117df0fd5&v=4" width="24" alt="Avatar of fulmicoton"> fulmicoton
-			</a><br/>
-			Paul Masurel
-		</td>
-		<td>@tantivy-search  </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>288</td>
+		<td>290</td>
 	</tr>
 	<tr>
 		<td>453</td>
@@ -5996,6 +5996,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>454</td>
 		<td>
+			<a href="https://github.com/uiryuu">
+				<img src="https://avatars.githubusercontent.com/u/20237141?s=72&u=da89f0f51b0fb5de0b212a07d220f901c5659804&v=4" width="24" alt="Avatar of uiryuu"> uiryuu
+			</a><br/>
+			Yuze Jiang
+		</td>
+		<td>The University Of Tokyo<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>288</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
 			<a href="https://github.com/Kei18">
 				<img src="https://avatars.githubusercontent.com/u/8915773?s=72&u=e0e75d57a2ac88193428a5ffc16989dbf3fed4e5&v=4" width="24" alt="Avatar of Kei18"> Kei18
 			</a><br/>
@@ -6005,19 +6018,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/_kei18">_kei18</a></td>
 		<td>Tokyo, Japan</td>
 		<td>284</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
-			<a href="https://github.com/uiryuu">
-				<img src="https://avatars.githubusercontent.com/u/20237141?s=72&u=da89f0f51b0fb5de0b212a07d220f901c5659804&v=4" width="24" alt="Avatar of uiryuu"> uiryuu
-			</a><br/>
-			Yuze Jiang
-		</td>
-		<td>The University Of Tokyo<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>282</td>
 	</tr>
 	<tr>
 		<td>456</td>
@@ -6074,6 +6074,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>460</td>
 		<td>
+			<a href="https://github.com/yomotsu">
+				<img src="https://avatars.githubusercontent.com/u/212837?s=72&v=4" width="24" alt="Avatar of yomotsu"> yomotsu
+			</a><br/>
+			Akihiro Oyamada
+		</td>
+		<td>Pixelgrid, Inc </td>
+		<td><a href="https://twitter.com/yomotsu">yomotsu</a></td>
+		<td>Tokyo, Japan</td>
+		<td>274</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
 			<a href="https://github.com/s1204IT">
 				<img src="https://avatars.githubusercontent.com/u/52069677?s=72&u=49395ff4e3917d509adf0f73d40039a65debdc82&v=4" width="24" alt="Avatar of s1204IT"> s1204IT
 			</a><br/>
@@ -6083,19 +6096,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Japan</td>
 		<td>274</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/yomotsu">
-				<img src="https://avatars.githubusercontent.com/u/212837?s=72&v=4" width="24" alt="Avatar of yomotsu"> yomotsu
-			</a><br/>
-			Akihiro Oyamada
-		</td>
-		<td>Pixelgrid, Inc </td>
-		<td><a href="https://twitter.com/yomotsu">yomotsu</a></td>
-		<td>Tokyo, Japan</td>
-		<td>272</td>
 	</tr>
 	<tr>
 		<td>462</td>
@@ -6321,6 +6321,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>479</td>
 		<td>
+			<a href="https://github.com/BcRikko">
+				<img src="https://avatars.githubusercontent.com/u/5305599?s=72&u=c6aa865962e3aa0bad923e55b336c7bbfff00f5e&v=4" width="24" alt="Avatar of BcRikko"> BcRikko
+			</a><br/>
+			B.C.Rikko
+		</td>
+		<td>Black Everyday Company </td>
+		<td><a href="https://twitter.com/bc_rikko">bc_rikko</a></td>
+		<td>Tokyo, Japan</td>
+		<td>228</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
 			<a href="https://github.com/Yesterday17">
 				<img src="https://avatars.githubusercontent.com/u/8667822?s=72&u=1c50b6c55e4e09f76b664d62f7a37dc0266ae9ac&v=4" width="24" alt="Avatar of Yesterday17"> Yesterday17
 			</a><br/>
@@ -6330,19 +6343,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/yesterday17_dev">yesterday17_dev</a></td>
 		<td>Tokyo</td>
 		<td>227</td>
-	</tr>
-	<tr>
-		<td>480</td>
-		<td>
-			<a href="https://github.com/BcRikko">
-				<img src="https://avatars.githubusercontent.com/u/5305599?s=72&u=c6aa865962e3aa0bad923e55b336c7bbfff00f5e&v=4" width="24" alt="Avatar of BcRikko"> BcRikko
-			</a><br/>
-			B.C.Rikko
-		</td>
-		<td>Black Everyday Company </td>
-		<td><a href="https://twitter.com/bc_rikko">bc_rikko</a></td>
-		<td>Tokyo, Japan</td>
-		<td>225</td>
 	</tr>
 	<tr>
 		<td>481</td>
@@ -6602,7 +6602,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@tokyodev-inc  </td>
 		<td><a href="https://twitter.com/pwim">pwim</a></td>
 		<td>Tokyo, Japan</td>
-		<td>184</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>501</td>
@@ -6672,6 +6672,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>506</td>
 		<td>
+			<a href="https://github.com/yuru7">
+				<img src="https://avatars.githubusercontent.com/u/13458509?s=72&u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" width="24" alt="Avatar of yuru7"> yuru7
+			</a><br/>
+			tawara
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tawara_san">tawara_san</a></td>
+		<td>Japan</td>
+		<td>175</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
 			<a href="https://github.com/minaminao">
 				<img src="https://avatars.githubusercontent.com/u/20497787?s=72&u=2abe317c1283a65927c31a2c847809e486edc333&v=4" width="24" alt="Avatar of minaminao"> minaminao
 			</a><br/>
@@ -6683,7 +6696,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/dark-flames">
 				<img src="https://avatars.githubusercontent.com/u/15088572?s=72&u=d54523ff6e078ca3699e1f741c10a375aba0212b&v=4" width="24" alt="Avatar of dark-flames"> dark-flames
@@ -6696,7 +6709,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/ai03-2725">
 				<img src="https://avatars.githubusercontent.com/u/26614352?s=72&u=343fbd307eba37429bb1d546a0f5e2ebadcc7d65&v=4" width="24" alt="Avatar of ai03-2725"> ai03-2725
@@ -6709,7 +6722,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/saitoha">
 				<img src="https://avatars.githubusercontent.com/u/1162739?s=72&u=fc038762b6497d99959c2eb53b3188c803f17e13&v=4" width="24" alt="Avatar of saitoha"> saitoha
@@ -6722,7 +6735,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/matsui528">
 				<img src="https://avatars.githubusercontent.com/u/2842345?s=72&u=bbab2a77026d632da0b310023cc2490c074f01df&v=4" width="24" alt="Avatar of matsui528"> matsui528
@@ -6735,7 +6748,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/junderw">
 				<img src="https://avatars.githubusercontent.com/u/11246316?s=72&u=b1879af21c58336a58b5b41376db8eade5006d51&v=4" width="24" alt="Avatar of junderw"> junderw
@@ -6748,7 +6761,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/yuin">
 				<img src="https://avatars.githubusercontent.com/u/56500?s=72&u=133b8624093ad3e97b1635c7e07e6ecae4da5852&v=4" width="24" alt="Avatar of yuin"> yuin
@@ -6761,7 +6774,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/ikegami-yukino">
 				<img src="https://avatars.githubusercontent.com/u/780831?s=72&u=41cb886c7505a8e6c904013d7046d06ce5985404&v=4" width="24" alt="Avatar of ikegami-yukino"> ikegami-yukino
@@ -6774,7 +6787,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/karupanerura">
 				<img src="https://avatars.githubusercontent.com/u/374550?s=72&u=f92e269d06a8fde48221b9fbe0a9d9206ef9b7b0&v=4" width="24" alt="Avatar of karupanerura"> karupanerura
@@ -6787,7 +6800,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/yuk7">
 				<img src="https://avatars.githubusercontent.com/u/29954265?s=72&u=35ae028726c7778014e5853ceb6bef4566ce14fe&v=4" width="24" alt="Avatar of yuk7"> yuk7
@@ -6800,7 +6813,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/marocchino">
 				<img src="https://avatars.githubusercontent.com/u/128431?s=72&v=4" width="24" alt="Avatar of marocchino"> marocchino
@@ -6813,7 +6826,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/0918nobita">
 				<img src="https://avatars.githubusercontent.com/u/8453302?s=72&u=e22c99338d1ab24372d9dabaf91b74013bdf3698&v=4" width="24" alt="Avatar of 0918nobita"> 0918nobita
@@ -6826,7 +6839,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/frandiox">
+				<img src="https://avatars.githubusercontent.com/u/1634092?s=72&v=4" width="24" alt="Avatar of frandiox"> frandiox
+			</a><br/>
+			Fran Dios
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/frandiox">frandiox</a></td>
+		<td>Tokyo</td>
+		<td>156</td>
+	</tr>
+	<tr>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/macocci7">
 				<img src="https://avatars.githubusercontent.com/u/19181121?s=72&u=71dbd72dc86869ab43ca84c5abc58a4b1f66cbe5&v=4" width="24" alt="Avatar of macocci7"> macocci7
@@ -6839,20 +6865,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>519</td>
-		<td>
-			<a href="https://github.com/frandiox">
-				<img src="https://avatars.githubusercontent.com/u/1634092?s=72&v=4" width="24" alt="Avatar of frandiox"> frandiox
-			</a><br/>
-			Fran Dios
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/frandiox">frandiox</a></td>
-		<td>Tokyo</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/kyubuns">
 				<img src="https://avatars.githubusercontent.com/u/961165?s=72&u=a3763de3c858dba9e6614114b52991be685f093f&v=4" width="24" alt="Avatar of kyubuns"> kyubuns
@@ -6865,7 +6878,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/takahirox">
 				<img src="https://avatars.githubusercontent.com/u/7637832?s=72&u=9c360fd403cec327be79578630935fc373e6cc88&v=4" width="24" alt="Avatar of takahirox"> takahirox
@@ -6876,19 +6889,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/superhoge">superhoge</a></td>
 		<td>Niigata Japan</td>
 		<td>152</td>
-	</tr>
-	<tr>
-		<td>522</td>
-		<td>
-			<a href="https://github.com/yuru7">
-				<img src="https://avatars.githubusercontent.com/u/13458509?s=72&u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" width="24" alt="Avatar of yuru7"> yuru7
-			</a><br/>
-			tawara
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tawara_san">tawara_san</a></td>
-		<td>Japan</td>
-		<td>150</td>
 	</tr>
 	<tr>
 		<td>523</td>
@@ -6906,6 +6906,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>524</td>
 		<td>
+			<a href="https://github.com/tenntenn">
+				<img src="https://avatars.githubusercontent.com/u/796820?s=72&u=28cbde56ef6097d91372c301c53f7565d23dc36c&v=4" width="24" alt="Avatar of tenntenn"> tenntenn
+			</a><br/>
+			Takuya Ueda
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hokkaido, Japan</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
 			<a href="https://github.com/michaelrambeau">
 				<img src="https://avatars.githubusercontent.com/u/5546996?s=72&u=a4fd77f1d4dae82361165a5da1eb90423d9443ff&v=4" width="24" alt="Avatar of michaelrambeau"> michaelrambeau
 			</a><br/>
@@ -6917,7 +6930,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/vvakame">
 				<img src="https://avatars.githubusercontent.com/u/125332?s=72&u=dbbe032289a2c1560b04292cd6435c725546c3f8&v=4" width="24" alt="Avatar of vvakame"> vvakame
@@ -6930,7 +6943,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/komietty">
 				<img src="https://avatars.githubusercontent.com/u/6054093?s=72&u=5ba0c7dd79bf7825dd7b19a2cee8c7485984defb&v=4" width="24" alt="Avatar of komietty"> komietty
@@ -6943,7 +6956,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/xeodou">
 				<img src="https://avatars.githubusercontent.com/u/914595?s=72&v=4" width="24" alt="Avatar of xeodou"> xeodou
@@ -6956,20 +6969,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
-			<a href="https://github.com/tenntenn">
-				<img src="https://avatars.githubusercontent.com/u/796820?s=72&u=28cbde56ef6097d91372c301c53f7565d23dc36c&v=4" width="24" alt="Avatar of tenntenn"> tenntenn
+			<a href="https://github.com/ikeike443">
+				<img src="https://avatars.githubusercontent.com/u/159452?s=72&u=5b41773c61f2848e570f2cb240bd1ed413e7e5cd&v=4" width="24" alt="Avatar of ikeike443"> ikeike443
 			</a><br/>
-			Takuya Ueda
+			Takafumi Ikeda
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hokkaido, Japan</td>
-		<td>140</td>
+		<td>@stripe </td>
+		<td><a href="https://twitter.com/ikeike443">ikeike443</a></td>
+		<td>Japan</td>
+		<td>141</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/gugod">
 				<img src="https://avatars.githubusercontent.com/u/4970?s=72&v=4" width="24" alt="Avatar of gugod"> gugod
@@ -6982,7 +6995,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/treefrogframework">
 				<img src="https://avatars.githubusercontent.com/u/2995876?s=72&v=4" width="24" alt="Avatar of treefrogframework"> treefrogframework
@@ -6995,7 +7008,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/xerpi">
 				<img src="https://avatars.githubusercontent.com/u/560596?s=72&u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4" width="24" alt="Avatar of xerpi"> xerpi
@@ -7008,7 +7021,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/nyoki-mtl">
+				<img src="https://avatars.githubusercontent.com/u/20926684?s=72&u=4cfcedfe8f60be6bca70eb31c0a559c4bad05f29&v=4" width="24" alt="Avatar of nyoki-mtl"> nyoki-mtl
+			</a><br/>
+			Hiroki Taniai
+		</td>
+		<td>The University Of Tokyo<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/kaustubhhiware">
 				<img src="https://avatars.githubusercontent.com/u/11318551?s=72&u=bd96e0d6551428eed79df390d9bf5f0083cc7bac&v=4" width="24" alt="Avatar of kaustubhhiware"> kaustubhhiware
@@ -7021,20 +7047,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>533</td>
-		<td>
-			<a href="https://github.com/ikeike443">
-				<img src="https://avatars.githubusercontent.com/u/159452?s=72&u=5b41773c61f2848e570f2cb240bd1ed413e7e5cd&v=4" width="24" alt="Avatar of ikeike443"> ikeike443
-			</a><br/>
-			Takafumi Ikeda
-		</td>
-		<td>@stripe </td>
-		<td><a href="https://twitter.com/ikeike443">ikeike443</a></td>
-		<td>Japan</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/takuya-takeuchi">
 				<img src="https://avatars.githubusercontent.com/u/6241854?s=72&u=3750aced9019f6083a8c2cd9492e432dd9676601&v=4" width="24" alt="Avatar of takuya-takeuchi"> takuya-takeuchi
@@ -7047,7 +7060,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/vaaaaanquish">
 				<img src="https://avatars.githubusercontent.com/u/47341845?s=72&v=4" width="24" alt="Avatar of vaaaaanquish"> vaaaaanquish
@@ -7058,19 +7071,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/vaaaaanquish">vaaaaanquish</a></td>
 		<td>Tokyo, Japan</td>
 		<td>135</td>
-	</tr>
-	<tr>
-		<td>536</td>
-		<td>
-			<a href="https://github.com/nyoki-mtl">
-				<img src="https://avatars.githubusercontent.com/u/20926684?s=72&u=4cfcedfe8f60be6bca70eb31c0a559c4bad05f29&v=4" width="24" alt="Avatar of nyoki-mtl"> nyoki-mtl
-			</a><br/>
-			Hiroki Taniai
-		</td>
-		<td>The University Of Tokyo<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>134</td>
 	</tr>
 	<tr>
 		<td>537</td>
@@ -7145,7 +7145,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 			</a><br/>
 			Kingdrone
 		</td>
-		<td>The University Of Tokyo<br/></td>
+		<td>The University Of Tokyo<br/>&<br/>Riken<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
 		<td>130</td>
@@ -7374,6 +7374,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>560</td>
 		<td>
+			<a href="https://github.com/cdepillabout">
+				<img src="https://avatars.githubusercontent.com/u/64804?s=72&v=4" width="24" alt="Avatar of cdepillabout"> cdepillabout
+			</a><br/>
+			Dennis Gosnell
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sapporo, Japan</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>561</td>
+		<td>
 			<a href="https://github.com/tinyzqh">
 				<img src="https://avatars.githubusercontent.com/u/26438266?s=72&u=bf096b2e5ff0b6fb1b0bc8e909006958f8fd85e8&v=4" width="24" alt="Avatar of tinyzqh"> tinyzqh
 			</a><br/>
@@ -7385,7 +7398,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/mrkn">
 				<img src="https://avatars.githubusercontent.com/u/3959?s=72&u=951e5e4b534a96a7598601dd6ed25fe7ab8191f7&v=4" width="24" alt="Avatar of mrkn"> mrkn
@@ -7395,19 +7408,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@xica </td>
 		<td><a href="https://twitter.com/KentaMurata">KentaMurata</a></td>
 		<td>Tokyo, Japan</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>562</td>
-		<td>
-			<a href="https://github.com/cdepillabout">
-				<img src="https://avatars.githubusercontent.com/u/64804?s=72&v=4" width="24" alt="Avatar of cdepillabout"> cdepillabout
-			</a><br/>
-			Dennis Gosnell
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sapporo, Japan</td>
 		<td>114</td>
 	</tr>
 	<tr>
@@ -7517,6 +7517,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>571</td>
 		<td>
+			<a href="https://github.com/kevinzhow">
+				<img src="https://avatars.githubusercontent.com/u/1156192?s=72&u=b2b866f7ec90371a12e8f716e1d3fe396e1d9158&v=4" width="24" alt="Avatar of kevinzhow"> kevinzhow
+			</a><br/>
+			Kevin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Koshigaya, Japan</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
 			<a href="https://github.com/try0">
 				<img src="https://avatars.githubusercontent.com/u/17096601?s=72&v=4" width="24" alt="Avatar of try0"> try0
 			</a><br/>
@@ -7528,7 +7541,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/nov">
 				<img src="https://avatars.githubusercontent.com/u/27299?s=72&u=d02b1d3e03dc134d2d0a42e670eac1be099064e0&v=4" width="24" alt="Avatar of nov"> nov
@@ -7539,19 +7552,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/nov">nov</a></td>
 		<td>Tokyo, Japan</td>
 		<td>107</td>
-	</tr>
-	<tr>
-		<td>573</td>
-		<td>
-			<a href="https://github.com/kevinzhow">
-				<img src="https://avatars.githubusercontent.com/u/1156192?s=72&u=b2b866f7ec90371a12e8f716e1d3fe396e1d9158&v=4" width="24" alt="Avatar of kevinzhow"> kevinzhow
-			</a><br/>
-			Kevin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Koshigaya, Japan</td>
-		<td>106</td>
 	</tr>
 	<tr>
 		<td>574</td>
@@ -7673,19 +7673,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>583</td>
 		<td>
-			<a href="https://github.com/tanakh">
-				<img src="https://avatars.githubusercontent.com/u/109069?s=72&v=4" width="24" alt="Avatar of tanakh"> tanakh
-			</a><br/>
-			Hideyuki Tanaka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>101</td>
-	</tr>
-	<tr>
-		<td>584</td>
-		<td>
 			<a href="https://github.com/kevincobain2000">
 				<img src="https://avatars.githubusercontent.com/u/629055?s=72&u=1a86e52e96fea8b2a079ca2c163cda2967105e9c&v=4" width="24" alt="Avatar of kevincobain2000"> kevincobain2000
 			</a><br/>
@@ -7694,6 +7681,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>Rakuten Group, Pre: Gree<br/>Inc.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>584</td>
+		<td>
+			<a href="https://github.com/tanakh">
+				<img src="https://avatars.githubusercontent.com/u/109069?s=72&v=4" width="24" alt="Avatar of tanakh"> tanakh
+			</a><br/>
+			Hideyuki Tanaka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
 		<td>101</td>
 	</tr>
 	<tr>
@@ -7707,7 +7707,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo, Japan</td>
-		<td>99</td>
+		<td>100</td>
 	</tr>
 	<tr>
 		<td>586</td>
@@ -7751,19 +7751,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>589</td>
 		<td>
-			<a href="https://github.com/penk">
-				<img src="https://avatars.githubusercontent.com/u/61878?s=72&u=ac3840551e69ea03110cf1222ab7a9eeddcaf16f&v=4" width="24" alt="Avatar of penk"> penk
-			</a><br/>
-			Penk Chen
-		</td>
-		<td>@cutiepi-io  </td>
-		<td><a href="https://twitter.com/penk">penk</a></td>
-		<td>Tokyo, Japan</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>590</td>
-		<td>
 			<a href="https://github.com/yuichiroaoki">
 				<img src="https://avatars.githubusercontent.com/u/45054071?s=72&u=f8adae15ec8908ec180cc4ff63542bc3733b8e01&v=4" width="24" alt="Avatar of yuichiroaoki"> yuichiroaoki
 			</a><br/>
@@ -7772,6 +7759,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nara, Japan</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
+			<a href="https://github.com/penk">
+				<img src="https://avatars.githubusercontent.com/u/61878?s=72&u=ac3840551e69ea03110cf1222ab7a9eeddcaf16f&v=4" width="24" alt="Avatar of penk"> penk
+			</a><br/>
+			Penk Chen
+		</td>
+		<td>@cutiepi-io  </td>
+		<td><a href="https://twitter.com/penk">penk</a></td>
+		<td>Tokyo, Japan</td>
 		<td>88</td>
 	</tr>
 	<tr>
@@ -7790,6 +7790,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>592</td>
 		<td>
+			<a href="https://github.com/kakutani">
+				<img src="https://avatars.githubusercontent.com/u/2160?s=72&u=3db2e52406a721cc38a560a52d9fa5fb7cc39f59&v=4" width="24" alt="Avatar of kakutani"> kakutani
+			</a><br/>
+			Kakutani Shintaro
+		</td>
+		<td>Freelance, Ruby-no-kai </td>
+		<td><a href="https://twitter.com/kakutani">kakutani</a></td>
+		<td>Tokyo, Japan</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>593</td>
+		<td>
 			<a href="https://github.com/tuepon">
 				<img src="https://avatars.githubusercontent.com/u/20483216?s=72&u=b45f09393d280ddd43821dc3beb5f2391b4d4a10&v=4" width="24" alt="Avatar of tuepon"> tuepon
 			</a><br/>
@@ -7801,7 +7814,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/acgotaku">
 				<img src="https://avatars.githubusercontent.com/u/1191834?s=72&u=b9f1bf747e4f71981b355949541cd97b65a95a48&v=4" width="24" alt="Avatar of acgotaku"> acgotaku
@@ -7814,7 +7827,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/3UR">
 				<img src="https://avatars.githubusercontent.com/u/76826837?s=72&v=4" width="24" alt="Avatar of 3UR"> 3UR
@@ -7827,7 +7840,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/Rokt33r">
 				<img src="https://avatars.githubusercontent.com/u/5865853?s=72&u=2076d1e95f211aca5c6ea905a62de37c695e0312&v=4" width="24" alt="Avatar of Rokt33r"> Rokt33r
@@ -7838,19 +7851,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/rokt33r">rokt33r</a></td>
 		<td>90% Tokyo / 10% Busan or VA</td>
 		<td>85</td>
-	</tr>
-	<tr>
-		<td>596</td>
-		<td>
-			<a href="https://github.com/kakutani">
-				<img src="https://avatars.githubusercontent.com/u/2160?s=72&u=3db2e52406a721cc38a560a52d9fa5fb7cc39f59&v=4" width="24" alt="Avatar of kakutani"> kakutani
-			</a><br/>
-			Kakutani Shintaro
-		</td>
-		<td>Freelance, Ruby-no-kai </td>
-		<td><a href="https://twitter.com/kakutani">kakutani</a></td>
-		<td>Tokyo, Japan</td>
-		<td>84</td>
 	</tr>
 	<tr>
 		<td>597</td>
@@ -7920,6 +7920,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>602</td>
 		<td>
+			<a href="https://github.com/kumagi">
+				<img src="https://avatars.githubusercontent.com/u/153341?s=72&v=4" width="24" alt="Avatar of kumagi"> kumagi
+			</a><br/>
+			Hiroki KUMAZAKI
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>603</td>
+		<td>
 			<a href="https://github.com/Grabacr07">
 				<img src="https://avatars.githubusercontent.com/u/1779073?s=72&u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" width="24" alt="Avatar of Grabacr07"> Grabacr07
 			</a><br/>
@@ -7931,7 +7944,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/unchama">
 				<img src="https://avatars.githubusercontent.com/u/11990197?s=72&u=63c7d60c9fb1517af78eda0197212e5e0d5544ea&v=4" width="24" alt="Avatar of unchama"> unchama
@@ -7944,7 +7957,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/famasoon">
 				<img src="https://avatars.githubusercontent.com/u/18043941?s=72&u=697c15780dea366606262f76898450481b8711b9&v=4" width="24" alt="Avatar of famasoon"> famasoon
@@ -7957,7 +7970,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/takuma104">
 				<img src="https://avatars.githubusercontent.com/u/10776?s=72&u=349fc9f3b3898b86e25bf5f57e13b701475017ec&v=4" width="24" alt="Avatar of takuma104"> takuma104
@@ -7970,7 +7983,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/fakufaku">
 				<img src="https://avatars.githubusercontent.com/u/1118133?s=72&u=2748d1231c08bf00947efb28cf214ab07b8b9735&v=4" width="24" alt="Avatar of fakufaku"> fakufaku
@@ -7983,7 +7996,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/ysds">
 				<img src="https://avatars.githubusercontent.com/u/4065765?s=72&u=fd1215dedd121ac28a220163b047fc88193856b0&v=4" width="24" alt="Avatar of ysds"> ysds
@@ -7996,7 +8009,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/polm">
 				<img src="https://avatars.githubusercontent.com/u/286278?s=72&v=4" width="24" alt="Avatar of polm"> polm
@@ -8009,7 +8022,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/alantian">
 				<img src="https://avatars.githubusercontent.com/u/1701454?s=72&u=935b5fad5d9cec1fa0d58ed71bf769df0faeffd1&v=4" width="24" alt="Avatar of alantian"> alantian
@@ -8017,19 +8030,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 			Yingtao Tian
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>610</td>
-		<td>
-			<a href="https://github.com/kumagi">
-				<img src="https://avatars.githubusercontent.com/u/153341?s=72&v=4" width="24" alt="Avatar of kumagi"> kumagi
-			</a><br/>
-			Hiroki KUMAZAKI
-		</td>
-		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
 		<td>76</td>
@@ -8193,19 +8193,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>623</td>
 		<td>
-			<a href="https://github.com/ninjinkun">
-				<img src="https://avatars.githubusercontent.com/u/113420?s=72&u=db6f5f28368bfd500235742f56c4bdd59ddf5f15&v=4" width="24" alt="Avatar of ninjinkun"> ninjinkun
-			</a><br/>
-			Satoshi Asano (ninjinkun)
-		</td>
-		<td>Layerx </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>624</td>
-		<td>
 			<a href="https://github.com/hirocaster">
 				<img src="https://avatars.githubusercontent.com/u/122881?s=72&u=ce3afae4b2b20ce5192d8858a510c08eb233f68d&v=4" width="24" alt="Avatar of hirocaster"> hirocaster
 			</a><br/>
@@ -8214,6 +8201,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Shibuya, Tokyo, Japan</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/ninjinkun">
+				<img src="https://avatars.githubusercontent.com/u/113420?s=72&u=db6f5f28368bfd500235742f56c4bdd59ddf5f15&v=4" width="24" alt="Avatar of ninjinkun"> ninjinkun
+			</a><br/>
+			Satoshi Asano (ninjinkun)
+		</td>
+		<td>Layerx </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -8284,6 +8284,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>630</td>
 		<td>
+			<a href="https://github.com/marcan">
+				<img src="https://avatars.githubusercontent.com/u/98387?s=72&u=9e6fd6d25dfb88c1ea7dc10a662a40d3f4fa1df0&v=4" width="24" alt="Avatar of marcan"> marcan
+			</a><br/>
+			Hector Martin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo, Japan</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>631</td>
+		<td>
 			<a href="https://github.com/suzana-ilic">
 				<img src="https://avatars.githubusercontent.com/u/27798583?s=72&u=a0b76a52bb1cdb77c30cbb37a7219c0d92efda02&v=4" width="24" alt="Avatar of suzana-ilic"> suzana-ilic
 			</a><br/>
@@ -8295,7 +8308,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/COx2">
 				<img src="https://avatars.githubusercontent.com/u/2960956?s=72&v=4" width="24" alt="Avatar of COx2"> COx2
@@ -8306,19 +8319,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td><a href="https://twitter.com/CO_CO_">CO_CO_</a></td>
 		<td>Japan</td>
 		<td>62</td>
-	</tr>
-	<tr>
-		<td>632</td>
-		<td>
-			<a href="https://github.com/marcan">
-				<img src="https://avatars.githubusercontent.com/u/98387?s=72&u=9e6fd6d25dfb88c1ea7dc10a662a40d3f4fa1df0&v=4" width="24" alt="Avatar of marcan"> marcan
-			</a><br/>
-			Hector Martin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo, Japan</td>
-		<td>61</td>
 	</tr>
 	<tr>
 		<td>633</td>
@@ -8973,6 +8973,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>683</td>
 		<td>
+			<a href="https://github.com/Haruma-K">
+				<img src="https://avatars.githubusercontent.com/u/47441314?s=72&u=cc0aca38beb47743de11b25d60537d5532a3a07a&v=4" width="24" alt="Avatar of Haruma-K"> Haruma-K
+			</a><br/>
+			Haruki Yano
+		</td>
+		<td>Cyberagent, Inc. </td>
+		<td><a href="https://twitter.com/harumak_11">harumak_11</a></td>
+		<td>Tokyo, Japan</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>684</td>
+		<td>
 			<a href="https://github.com/megabitsenmzq">
 				<img src="https://avatars.githubusercontent.com/u/5499507?s=72&u=c6fd767c197c3c6b9a60f59d9975bc4ea69d702c&v=4" width="24" alt="Avatar of megabitsenmzq"> megabitsenmzq
 			</a><br/>
@@ -8984,7 +8997,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/slankdev">
 				<img src="https://avatars.githubusercontent.com/u/9874676?s=72&u=995f4883e164d4e579797f79d709e80b5278bd7d&v=4" width="24" alt="Avatar of slankdev"> slankdev
@@ -8997,7 +9010,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/Hironsan">
 				<img src="https://avatars.githubusercontent.com/u/6737785?s=72&u=052d94c2d265c74806e59eb22fe39ece849f91f8&v=4" width="24" alt="Avatar of Hironsan"> Hironsan
@@ -9010,7 +9023,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/BrambleXu">
 				<img src="https://avatars.githubusercontent.com/u/10768193?s=72&u=134b01ed032fe6741c832c4f4790d782b8aff9d8&v=4" width="24" alt="Avatar of BrambleXu"> BrambleXu
@@ -9023,7 +9036,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/soda-x">
 				<img src="https://avatars.githubusercontent.com/u/848515?s=72&u=34405a0e781de99ec91abf8f0749d409e1b28c55&v=4" width="24" alt="Avatar of soda-x"> soda-x
@@ -9036,7 +9049,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/homuler">
 				<img src="https://avatars.githubusercontent.com/u/4690128?s=72&u=ca93281e9656e9e837580143d03034157def787c&v=4" width="24" alt="Avatar of homuler"> homuler
@@ -9049,7 +9062,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/h6ah4i">
 				<img src="https://avatars.githubusercontent.com/u/2552365?s=72&v=4" width="24" alt="Avatar of h6ah4i"> h6ah4i
@@ -9062,7 +9075,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/remirobert">
 				<img src="https://avatars.githubusercontent.com/u/3276768?s=72&u=0992aa2c1d81874f47291e38df3cd53341b836e6&v=4" width="24" alt="Avatar of remirobert"> remirobert
@@ -9075,7 +9088,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/256-daisuki">
 				<img src="https://avatars.githubusercontent.com/u/115447369?s=72&u=23738261213928a34857350fd40b7350a32dca23&v=4" width="24" alt="Avatar of 256-daisuki"> 256-daisuki
@@ -9088,7 +9101,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/guregu">
 				<img src="https://avatars.githubusercontent.com/u/131059?s=72&u=81c35b98c35f0904fc0367039849d58fd0e39e53&v=4" width="24" alt="Avatar of guregu"> guregu
@@ -9101,7 +9114,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/silverskyvicto">
 				<img src="https://avatars.githubusercontent.com/u/3609003?s=72&u=1c11a80012fad280d373f8b9c23fda57ab88f726&v=4" width="24" alt="Avatar of silverskyvicto"> silverskyvicto
@@ -9114,7 +9127,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/sikachu">
 				<img src="https://avatars.githubusercontent.com/u/4912?s=72&u=eb3c70ddbc9885d49affd65ed2f468c2f5e36c3b&v=4" width="24" alt="Avatar of sikachu"> sikachu
@@ -9127,7 +9140,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/spinute">
 				<img src="https://avatars.githubusercontent.com/u/6639012?s=72&u=e503031e41141fc9ffa6d8b5a9faced115d693ad&v=4" width="24" alt="Avatar of spinute"> spinute
@@ -9140,7 +9153,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/mv-lab">
 				<img src="https://avatars.githubusercontent.com/u/37480508?s=72&u=e26eaa8739479943e124d4f5d034fdb7fabec4a5&v=4" width="24" alt="Avatar of mv-lab"> mv-lab
@@ -9153,7 +9166,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/shioyama">
 				<img src="https://avatars.githubusercontent.com/u/561827?s=72&u=ee9089fddbd4d64bf5a0f985408a459b78cb73f5&v=4" width="24" alt="Avatar of shioyama"> shioyama
@@ -9166,7 +9179,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/ddPn08">
 				<img src="https://avatars.githubusercontent.com/u/71378929?s=72&u=244e9d225ae8b833409fa2062dcc4685abe98b8e&v=4" width="24" alt="Avatar of ddPn08"> ddPn08
@@ -9179,7 +9192,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
+		<td>
+			<a href="https://github.com/chomado">
+				<img src="https://avatars.githubusercontent.com/u/3405269?s=72&u=a183b41df2250d0c885c00cab75f079aeb8e169b&v=4" width="24" alt="Avatar of chomado"> chomado
+			</a><br/>
+			ちょまど | Madoka Chiyoda
+		</td>
+		<td>Microsoft </td>
+		<td><a href="https://twitter.com/chomado">chomado</a></td>
+		<td>Tokyo, Japan / Redmond, WA, US</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/shuiRong">
 				<img src="https://avatars.githubusercontent.com/u/16076993?s=72&v=4" width="24" alt="Avatar of shuiRong"> shuiRong
@@ -9192,7 +9218,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/AAkira">
 				<img src="https://avatars.githubusercontent.com/u/3386962?s=72&v=4" width="24" alt="Avatar of AAkira"> AAkira
@@ -9205,20 +9231,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>701</td>
-		<td>
-			<a href="https://github.com/chomado">
-				<img src="https://avatars.githubusercontent.com/u/3405269?s=72&u=a183b41df2250d0c885c00cab75f079aeb8e169b&v=4" width="24" alt="Avatar of chomado"> chomado
-			</a><br/>
-			ちょまど | Madoka Chiyoda
-		</td>
-		<td>Microsoft </td>
-		<td><a href="https://twitter.com/chomado">chomado</a></td>
-		<td>Tokyo, Japan / Redmond, WA, US</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/hiyohiyo">
 				<img src="https://avatars.githubusercontent.com/u/3816714?s=72&u=b80bc7a4529aa98e166795d8d8f7e9adf66309b4&v=4" width="24" alt="Avatar of hiyohiyo"> hiyohiyo
@@ -9231,7 +9244,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/mooz">
 				<img src="https://avatars.githubusercontent.com/u/40159?s=72&v=4" width="24" alt="Avatar of mooz"> mooz
@@ -9244,7 +9257,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/kitasenjudesign">
 				<img src="https://avatars.githubusercontent.com/u/16834962?s=72&u=c0d2662f5c9663cc656c90b93fa63a5aa6932a82&v=4" width="24" alt="Avatar of kitasenjudesign"> kitasenjudesign
@@ -9257,7 +9270,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/wheatup">
 				<img src="https://avatars.githubusercontent.com/u/6663691?s=72&u=65e37d13323928601a162844ad10a3c54a29ad0f&v=4" width="24" alt="Avatar of wheatup"> wheatup
@@ -9270,7 +9283,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/fumieval">
 				<img src="https://avatars.githubusercontent.com/u/761865?s=72&u=2ca6e2cbffd6a95e112a0bc7e81f7ca109d77267&v=4" width="24" alt="Avatar of fumieval"> fumieval
@@ -9283,7 +9296,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/tototoshi">
 				<img src="https://avatars.githubusercontent.com/u/264469?s=72&v=4" width="24" alt="Avatar of tototoshi"> tototoshi
@@ -9296,7 +9309,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/konifar">
 				<img src="https://avatars.githubusercontent.com/u/1269214?s=72&v=4" width="24" alt="Avatar of konifar"> konifar
@@ -9309,7 +9322,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/AstroProfundis">
 				<img src="https://avatars.githubusercontent.com/u/596538?s=72&u=d885308b06f40295d195a87c2f09617633b3f97a&v=4" width="24" alt="Avatar of AstroProfundis"> AstroProfundis
@@ -9322,7 +9335,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/r-plus">
 				<img src="https://avatars.githubusercontent.com/u/425216?s=72&v=4" width="24" alt="Avatar of r-plus"> r-plus
@@ -9335,7 +9348,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/Astrrra">
 				<img src="https://avatars.githubusercontent.com/u/93453568?s=72&u=bcf6c06f45dbb71669d240c75b4eb11ed9c2dca5&v=4" width="24" alt="Avatar of Astrrra"> Astrrra
@@ -9348,7 +9361,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/youpy">
 				<img src="https://avatars.githubusercontent.com/u/9128?s=72&u=fc2a5b3f998a2e3fcb3d42c8c66ae0977321e22d&v=4" width="24" alt="Avatar of youpy"> youpy
@@ -9359,19 +9372,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Japan</td>
 		<td>25</td>
-	</tr>
-	<tr>
-		<td>713</td>
-		<td>
-			<a href="https://github.com/Haruma-K">
-				<img src="https://avatars.githubusercontent.com/u/47441314?s=72&u=cc0aca38beb47743de11b25d60537d5532a3a07a&v=4" width="24" alt="Avatar of Haruma-K"> Haruma-K
-			</a><br/>
-			Haruki Yano
-		</td>
-		<td>Cyberagent, Inc. </td>
-		<td><a href="https://twitter.com/harumak_11">harumak_11</a></td>
-		<td>Tokyo, Japan</td>
-		<td>24</td>
 	</tr>
 	<tr>
 		<td>714</td>
@@ -9467,6 +9467,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>721</td>
 		<td>
+			<a href="https://github.com/NaokiAkai">
+				<img src="https://avatars.githubusercontent.com/u/33489971?s=72&u=1e83fcdf8339f23d6e7c925fb5ba8fc2d2420765&v=4" width="24" alt="Avatar of NaokiAkai"> NaokiAkai
+			</a><br/>
+			Naoki Akai
+		</td>
+		<td>Nagoya University </td>
+		<td>No Twitter Username</td>
+		<td>Nagoya-shi, Aichi-ken, Japan</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
 			<a href="https://github.com/fladdict">
 				<img src="https://avatars.githubusercontent.com/u/42696?s=72&v=4" width="24" alt="Avatar of fladdict"> fladdict
 			</a><br/>
@@ -9478,7 +9491,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/kuy">
 				<img src="https://avatars.githubusercontent.com/u/151614?s=72&v=4" width="24" alt="Avatar of kuy"> kuy
@@ -9488,10 +9501,10 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kuy">kuy</a></td>
 		<td>Tokyo, Japan</td>
-		<td>20</td>
+		<td>21</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/hako-mikan">
 				<img src="https://avatars.githubusercontent.com/u/122196982?s=72&u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4" width="24" alt="Avatar of hako-mikan"> hako-mikan
@@ -9504,7 +9517,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/shinobi8894">
 				<img src="https://avatars.githubusercontent.com/u/56811611?s=72&u=95341087dba9d826970d773d8cf2d5deb1503611&v=4" width="24" alt="Avatar of shinobi8894"> shinobi8894
@@ -9514,19 +9527,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>@rootsystem-dev </td>
 		<td><a href="https://twitter.com/TadashiAmano">TadashiAmano</a></td>
 		<td>Japan</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
-			<a href="https://github.com/NaokiAkai">
-				<img src="https://avatars.githubusercontent.com/u/33489971?s=72&u=1e83fcdf8339f23d6e7c925fb5ba8fc2d2420765&v=4" width="24" alt="Avatar of NaokiAkai"> NaokiAkai
-			</a><br/>
-			Naoki Akai
-		</td>
-		<td>Nagoya University </td>
-		<td>No Twitter Username</td>
-		<td>Nagoya-shi, Aichi-ken, Japan</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -9818,6 +9818,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>748</td>
 		<td>
+			<a href="https://github.com/MTZun10">
+				<img src="https://avatars.githubusercontent.com/u/95432260?s=72&u=7300155e28e8acacdb41e62b16cc3487b1b96740&v=4" width="24" alt="Avatar of MTZun10"> MTZun10
+			</a><br/>
+			Zun
+		</td>
+		<td>Kyoto University </td>
+		<td>No Twitter Username</td>
+		<td>Kyoto, Japan</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>749</td>
+		<td>
 			<a href="https://github.com/shanzi">
 				<img src="https://avatars.githubusercontent.com/u/557294?s=72&v=4" width="24" alt="Avatar of shanzi"> shanzi
 			</a><br/>
@@ -9829,7 +9842,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/Jessidhia">
 				<img src="https://avatars.githubusercontent.com/u/73085?s=72&u=752c86143c92c1088ed4c8b31a92c3b2ce2bc4da&v=4" width="24" alt="Avatar of Jessidhia"> Jessidhia
@@ -9842,7 +9855,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/84d010m08">
 				<img src="https://avatars.githubusercontent.com/u/1744778?s=72&u=6117c52cfcd6a238f644797ce86d1200dc2ecb79&v=4" width="24" alt="Avatar of 84d010m08"> 84d010m08
@@ -9855,7 +9868,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/bcgameProject">
 				<img src="https://avatars.githubusercontent.com/u/34806974?s=72&u=8cc7005d7f63c7a855441b1e7c23e74a60be763e&v=4" width="24" alt="Avatar of bcgameProject"> bcgameProject
@@ -9868,7 +9881,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/dnobori">
 				<img src="https://avatars.githubusercontent.com/u/3041130?s=72&v=4" width="24" alt="Avatar of dnobori"> dnobori
@@ -9881,7 +9894,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/asliddinxanov">
 				<img src="https://avatars.githubusercontent.com/u/100646459?s=72&u=7f0d13f496fd5670d105b86a578948392c74e667&v=4" width="24" alt="Avatar of asliddinxanov"> asliddinxanov
@@ -9894,7 +9907,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/dav009">
 				<img src="https://avatars.githubusercontent.com/u/1659415?s=72&u=6c1ae56f9439a0cb71ffc67b72fa25dab44fc339&v=4" width="24" alt="Avatar of dav009"> dav009
@@ -9907,7 +9920,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/nullpo-head">
 				<img src="https://avatars.githubusercontent.com/u/2311662?s=72&u=7b3ea31537f09c0fff4948abc1172b9a9fbf25cb&v=4" width="24" alt="Avatar of nullpo-head"> nullpo-head
@@ -9920,7 +9933,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/shiraji">
 				<img src="https://avatars.githubusercontent.com/u/3675458?s=72&v=4" width="24" alt="Avatar of shiraji"> shiraji
@@ -9933,7 +9946,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/zhangysh1995">
 				<img src="https://avatars.githubusercontent.com/u/8340592?s=72&u=75015996937129f0b359b42d6bc4eb78073627d4&v=4" width="24" alt="Avatar of zhangysh1995"> zhangysh1995
@@ -9946,7 +9959,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/cjwirth">
 				<img src="https://avatars.githubusercontent.com/u/1579644?s=72&u=ac71a1ddc1c6314aa9dc740b3de97b1fe9efeb75&v=4" width="24" alt="Avatar of cjwirth"> cjwirth
@@ -9959,7 +9972,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/sinsukehlab">
 				<img src="https://avatars.githubusercontent.com/u/94058150?s=72&v=4" width="24" alt="Avatar of sinsukehlab"> sinsukehlab
@@ -9969,19 +9982,6 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>University Of Tokyo </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>760</td>
-		<td>
-			<a href="https://github.com/MTZun10">
-				<img src="https://avatars.githubusercontent.com/u/95432260?s=72&u=7300155e28e8acacdb41e62b16cc3487b1b96740&v=4" width="24" alt="Avatar of MTZun10"> MTZun10
-			</a><br/>
-			Zun
-		</td>
-		<td>Kyoto University </td>
-		<td>No Twitter Username</td>
-		<td>Kyoto, Japan</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -10637,6 +10637,19 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 	<tr>
 		<td>811</td>
 		<td>
+			<a href="https://github.com/tccpro">
+				<img src="https://avatars.githubusercontent.com/u/102004566?s=72&v=4" width="24" alt="Avatar of tccpro"> tccpro
+			</a><br/>
+			Asada Shinsaku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>812</td>
+		<td>
 			<a href="https://github.com/andriiginting">
 				<img src="https://avatars.githubusercontent.com/u/22597869?s=72&u=cd6bcaac30538519dc406533872a7e4c03559095&v=4" width="24" alt="Avatar of andriiginting"> andriiginting
 			</a><br/>
@@ -10648,7 +10661,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/chouchoui">
 				<img src="https://avatars.githubusercontent.com/u/14866249?s=72&u=016b3e0c2339f81b3f43949a2c9069e0b51fcf35&v=4" width="24" alt="Avatar of chouchoui"> chouchoui
@@ -10661,7 +10674,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/takuseno">
 				<img src="https://avatars.githubusercontent.com/u/5235131?s=72&u=5132c57c16d679df736bd65fa4578c9bf837836e&v=4" width="24" alt="Avatar of takuseno"> takuseno
@@ -10674,7 +10687,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/cambecc">
 				<img src="https://avatars.githubusercontent.com/u/3368530?s=72&u=80cff1b049d8d66a51e25a7a5070fc1c6eb79aaf&v=4" width="24" alt="Avatar of cambecc"> cambecc
@@ -10687,7 +10700,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/humiaozuzu">
 				<img src="https://avatars.githubusercontent.com/u/300016?s=72&u=6bdcdbeccf4e6cc1e298dbeb5fb840a06703f17e&v=4" width="24" alt="Avatar of humiaozuzu"> humiaozuzu
@@ -10700,7 +10713,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/k-takeuchi220">
 				<img src="https://avatars.githubusercontent.com/u/42257421?s=72&u=733d08657087f54e97b8ad25fbab2a4cd7772db3&v=4" width="24" alt="Avatar of k-takeuchi220"> k-takeuchi220
@@ -10713,7 +10726,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/lukas-reineke">
 				<img src="https://avatars.githubusercontent.com/u/12900252?s=72&u=366b4eeb3fc1fc19b6f8b2e25ed09cf8c020d19e&v=4" width="24" alt="Avatar of lukas-reineke"> lukas-reineke
@@ -10726,7 +10739,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/eneim">
 				<img src="https://avatars.githubusercontent.com/u/1776230?s=72&u=4b1ccb9089de1609b8eb289feeed927ef739287c&v=4" width="24" alt="Avatar of eneim"> eneim
@@ -10739,7 +10752,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>820</td>
+		<td>
+			<a href="https://github.com/teppeis">
+				<img src="https://avatars.githubusercontent.com/u/26476?s=72&v=4" width="24" alt="Avatar of teppeis"> teppeis
+			</a><br/>
+			Teppei Sato
+		</td>
+		<td>@cybozu / @kintone </td>
+		<td><a href="https://twitter.com/teppeis">teppeis</a></td>
+		<td>Tokyo</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/ErosMLima">
 				<img src="https://avatars.githubusercontent.com/u/60955355?s=72&v=4" width="24" alt="Avatar of ErosMLima"> ErosMLima
@@ -10752,7 +10778,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/syoichi">
 				<img src="https://avatars.githubusercontent.com/u/69238?s=72&u=df4105798241bcd1d516dddf3e12fb1cde7579dc&v=4" width="24" alt="Avatar of syoichi"> syoichi
@@ -10765,7 +10791,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/ericnakagawa">
 				<img src="https://avatars.githubusercontent.com/u/23874?s=72&u=7f8c310abde1bef3761559732219b031a7188161&v=4" width="24" alt="Avatar of ericnakagawa"> ericnakagawa
@@ -10778,7 +10804,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/hecomi">
 				<img src="https://avatars.githubusercontent.com/u/493433?s=72&v=4" width="24" alt="Avatar of hecomi"> hecomi
@@ -10791,7 +10817,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/jamesknelson">
 				<img src="https://avatars.githubusercontent.com/u/161707?s=72&u=539a58a1b6fbde8e314162718a0df5aa5162b0a7&v=4" width="24" alt="Avatar of jamesknelson"> jamesknelson
@@ -10804,7 +10830,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/ishkawa">
 				<img src="https://avatars.githubusercontent.com/u/966856?s=72&u=ff9ebdeb703fd4a82f7b3fce6f5864e0e10b0f33&v=4" width="24" alt="Avatar of ishkawa"> ishkawa
@@ -10817,7 +10843,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/hiroharu-kato">
 				<img src="https://avatars.githubusercontent.com/u/15853190?s=72&u=9ae0e414792a4863cac8395d4f7112c345f2d57e&v=4" width="24" alt="Avatar of hiroharu-kato"> hiroharu-kato
@@ -10830,7 +10856,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/ynagatomo">
 				<img src="https://avatars.githubusercontent.com/u/66309582?s=72&u=459fd9acfb79f8a40608668ad556d16f9aa14bbd&v=4" width="24" alt="Avatar of ynagatomo"> ynagatomo
@@ -10843,7 +10869,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/Lewuathe">
 				<img src="https://avatars.githubusercontent.com/u/1713047?s=72&u=bce5f85b87fea86386c91c32a75fb2e58023262f&v=4" width="24" alt="Avatar of Lewuathe"> Lewuathe
@@ -10856,7 +10882,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/nemutas">
 				<img src="https://avatars.githubusercontent.com/u/46724121?s=72&u=c9742cd8600a03b897d6c0685edfc9bc65470636&v=4" width="24" alt="Avatar of nemutas"> nemutas
@@ -10869,7 +10895,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/satoshi0212">
 				<img src="https://avatars.githubusercontent.com/u/5768361?s=72&u=25c234c5692d0c47801b86258f5ba7f9220a6141&v=4" width="24" alt="Avatar of satoshi0212"> satoshi0212
@@ -10882,7 +10908,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/UnaNancyOwen">
 				<img src="https://avatars.githubusercontent.com/u/816705?s=72&v=4" width="24" alt="Avatar of UnaNancyOwen"> UnaNancyOwen
@@ -10895,7 +10921,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/takayama-lily">
 				<img src="https://avatars.githubusercontent.com/u/12014361?s=72&v=4" width="24" alt="Avatar of takayama-lily"> takayama-lily
@@ -10908,7 +10934,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>834</td>
 		<td>
 			<a href="https://github.com/horike37">
 				<img src="https://avatars.githubusercontent.com/u/1301012?s=72&u=c735240144c52844358f51395bf0e528c0fa2958&v=4" width="24" alt="Avatar of horike37"> horike37
@@ -10921,7 +10947,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/15923-ORIX">
 				<img src="https://avatars.githubusercontent.com/u/123633802?s=72&u=3e9d4bf866665fb96d8b2e05d3c95515ddf0af88&v=4" width="24" alt="Avatar of 15923-ORIX"> 15923-ORIX
@@ -10934,7 +10960,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/tatsuyah">
 				<img src="https://avatars.githubusercontent.com/u/5807827?s=72&u=e03976a6bd7f39e5efa35f51a49523858efc603a&v=4" width="24" alt="Avatar of tatsuyah"> tatsuyah
@@ -10947,20 +10973,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>835</td>
-		<td>
-			<a href="https://github.com/nnn1590">
-				<img src="https://avatars.githubusercontent.com/u/28985763?s=72&v=4" width="24" alt="Avatar of nnn1590"> nnn1590
-			</a><br/>
-			ーーー
-		</td>
-		<td>@ghost </td>
-		<td>No Twitter Username</td>
-		<td>Kitazawa, Setagaya-ku, Tokyo</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>836</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/zaq1tomo">
 				<img src="https://avatars.githubusercontent.com/u/24784257?s=72&u=523da1ebabfe84e9f51cb19326ad9ca9401fa2aa&v=4" width="24" alt="Avatar of zaq1tomo"> zaq1tomo
@@ -10973,7 +10986,20 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>838</td>
+		<td>
+			<a href="https://github.com/nnn1590">
+				<img src="https://avatars.githubusercontent.com/u/28985763?s=72&v=4" width="24" alt="Avatar of nnn1590"> nnn1590
+			</a><br/>
+			ーーー
+		</td>
+		<td>@ghost </td>
+		<td>No Twitter Username</td>
+		<td>Kitazawa, Setagaya-ku, Tokyo</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/hirose31">
 				<img src="https://avatars.githubusercontent.com/u/9108?s=72&v=4" width="24" alt="Avatar of hirose31"> hirose31
@@ -10986,7 +11012,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>840</td>
 		<td>
 			<a href="https://github.com/doxas">
 				<img src="https://avatars.githubusercontent.com/u/6252881?s=72&v=4" width="24" alt="Avatar of doxas"> doxas
@@ -10999,7 +11025,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/jrjohansson">
 				<img src="https://avatars.githubusercontent.com/u/1198183?s=72&v=4" width="24" alt="Avatar of jrjohansson"> jrjohansson
@@ -11012,7 +11038,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>842</td>
 		<td>
 			<a href="https://github.com/veryyoung">
 				<img src="https://avatars.githubusercontent.com/u/5799652?s=72&u=a43f189d9914e2a71ec1b5a3e3eac30cdd9e8703&v=4" width="24" alt="Avatar of veryyoung"> veryyoung
@@ -11025,7 +11051,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>841</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/leemengtw">
 				<img src="https://avatars.githubusercontent.com/u/3454980?s=72&u=d813661d15084c32a12569ed84a2b9eecf8fdfc2&v=4" width="24" alt="Avatar of leemengtw"> leemengtw
@@ -11038,7 +11064,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>842</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/nghialv">
 				<img src="https://avatars.githubusercontent.com/u/1751755?s=72&u=488d7ea63fd8d67c4badb0d422812c51ddd22b60&v=4" width="24" alt="Avatar of nghialv"> nghialv
@@ -11051,7 +11077,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>843</td>
+		<td>845</td>
 		<td>
 			<a href="https://github.com/AstroLogics">
 				<img src="https://avatars.githubusercontent.com/u/198600993?s=72&u=721d62667f955e03cb6a954af7e62866bd1a31d5&v=4" width="24" alt="Avatar of AstroLogics"> AstroLogics
@@ -11064,7 +11090,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/ellekasai">
 				<img src="https://avatars.githubusercontent.com/u/2410692?s=72&u=73d8b93f0fa1dc39823e4bf12646cc961bf1b392&v=4" width="24" alt="Avatar of ellekasai"> ellekasai
@@ -11077,7 +11103,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/anshumanv">
 				<img src="https://avatars.githubusercontent.com/u/21009455?s=72&u=f5907fbe1d449faedbba43adf5eec9d9b6e9c0de&v=4" width="24" alt="Avatar of anshumanv"> anshumanv
@@ -11090,7 +11116,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>848</td>
 		<td>
 			<a href="https://github.com/h4ckdepy">
 				<img src="https://avatars.githubusercontent.com/u/42985524?s=72&u=ca113562bab907e2162919cb5318b03b6253ee3a&v=4" width="24" alt="Avatar of h4ckdepy"> h4ckdepy
@@ -11103,7 +11129,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>847</td>
+		<td>849</td>
 		<td>
 			<a href="https://github.com/nkmk">
 				<img src="https://avatars.githubusercontent.com/u/6695543?s=72&v=4" width="24" alt="Avatar of nkmk"> nkmk
@@ -11116,7 +11142,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>848</td>
+		<td>850</td>
 		<td>
 			<a href="https://github.com/naotokui">
 				<img src="https://avatars.githubusercontent.com/u/970319?s=72&v=4" width="24" alt="Avatar of naotokui"> naotokui
@@ -11129,7 +11155,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>849</td>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/anchan828">
 				<img src="https://avatars.githubusercontent.com/u/694454?s=72&v=4" width="24" alt="Avatar of anchan828"> anchan828
@@ -11142,7 +11168,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/sgr-ksmt">
 				<img src="https://avatars.githubusercontent.com/u/9350581?s=72&u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4" width="24" alt="Avatar of sgr-ksmt"> sgr-ksmt
@@ -11155,7 +11181,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/nhim175">
 				<img src="https://avatars.githubusercontent.com/u/1910304?s=72&u=892a84a653f13fb4b71fc34acb5af8537c8fdada&v=4" width="24" alt="Avatar of nhim175"> nhim175
@@ -11168,7 +11194,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/hak">
 				<img src="https://avatars.githubusercontent.com/u/98031?s=72&v=4" width="24" alt="Avatar of hak"> hak
@@ -11181,7 +11207,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/45288">
 				<img src="https://avatars.githubusercontent.com/u/115737749?s=72&u=c097125fbbdd0bddec9acf24438e18695b1a239e&v=4" width="24" alt="Avatar of 45288"> 45288
@@ -11194,7 +11220,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/aitikgupta">
 				<img src="https://avatars.githubusercontent.com/u/43996118?s=72&u=c5cef41205c36c9d3f7744e8c6648b2e647f4597&v=4" width="24" alt="Avatar of aitikgupta"> aitikgupta
@@ -11207,7 +11233,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/shspage">
 				<img src="https://avatars.githubusercontent.com/u/3269510?s=72&v=4" width="24" alt="Avatar of shspage"> shspage
@@ -11220,20 +11246,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>856</td>
-		<td>
-			<a href="https://github.com/teppeis">
-				<img src="https://avatars.githubusercontent.com/u/26476?s=72&v=4" width="24" alt="Avatar of teppeis"> teppeis
-			</a><br/>
-			Teppei Sato
-		</td>
-		<td>@cybozu / @kintone </td>
-		<td><a href="https://twitter.com/teppeis">teppeis</a></td>
-		<td>Tokyo</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>857</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/rejasupotaro">
 				<img src="https://avatars.githubusercontent.com/u/883148?s=72&u=b0bc68a926a9aa512c5baecf44cc302d2dca9759&v=4" width="24" alt="Avatar of rejasupotaro"> rejasupotaro
@@ -11246,7 +11259,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/taichi">
 				<img src="https://avatars.githubusercontent.com/u/66100?s=72&u=517207d37255b200d72becad8bbc6e9373eb4e4c&v=4" width="24" alt="Avatar of taichi"> taichi
@@ -11259,7 +11272,7 @@ There are `949 users`  in Japan. You need at least `230 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/dtan4">
 				<img src="https://avatars.githubusercontent.com/u/680124?s=72&u=1ff4b2613053b66639c6f6dd894e0eeee7fe716e&v=4" width="24" alt="Avatar of dtan4"> dtan4
